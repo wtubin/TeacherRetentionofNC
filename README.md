@@ -18,6 +18,11 @@ This is an extension of the work done to identify factors that lead to education
 
 Drew J., The Belk Endowment Educational Attainment Data Repository for North Carolina Public Schools, (2018), GitHub repository, https://github.com/jakemdrew/EducationDataNC
 
+We will also reuse some of IRS data collected in blow repository by Novelle Brown's team
+
+Brown, N., Heinen, J., Rega, M., & Sterling, L. (2018). Postsecondary Attainment: Identifying Areas to Improve Retention and On-Time Graduation Rates for North Carolina Community Colleges, GitHub repository, https://github.com/BrownRegaSterlingHeinen/PostsecondaryAttainment
+
+
 # Contact
 Please cite this repository if you choose to use it for your own work. You can contact our team at any of the following email addresses:
     {byu,nrezsonya,jdrew}@smu.edu
