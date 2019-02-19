@@ -22,4 +22,4 @@ Drew J., The Belk Endowment Educational Attainment Data Repository for North Car
 Please cite this repository if you choose to use it for your own work. You can contact our team at any of the following email addresses:
     {byu,nrezsonya,jdrew}@smu.edu
 
-Yu, B., Rezsonya, N., Drew, J. (2019). Teacher Retention: Identifying Areas to Improve Teacher Recruitment and Retention in North Carolina Public Schools, GitHub repository, https://github.com/wtubin/MSDS-Capstone-Project/
+Yu, B., Rezsonya, N., Drew, J. (2019). Teacher Retention: Identifying Areas to Improve Teacher Recruitment and Retention in North Carolina Public Schools, GitHub repository, https://github.com/wtubin/TeacherRetentionofNC
