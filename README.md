@@ -1,4 +1,6 @@
-# MSDS-Capstone-Project
+# Teacher Retention: Identifying Areas to Improve
+# Teacher Recruitment and Retention in North
+# Carolina Public Schools
 By Bin Yu, Nuoya Rezsonya
 
 In this repo we log all of our work on the MSDS capsone project. 
