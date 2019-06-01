@@ -1,4 +1,4 @@
-LEACode,LEAName,TotalTeachers,TeachersLeaving,RemainedinEducation,RemainedinEducationPerct,PersonalReasons,PersonalPerct,InitiatedbyLEA,InitiatedPerct,BeyondControlofLEA,BeyondControlPerct,OtherReasons,OtherReasonsPerct
+LEACode,Lea_Name,Attrtion_Reason_TotalTeachers,Attrtion_Reason_TeachersLeaving,Attrtion_Reason_RemainedinEducation,Attrtion_Reason_RemainedinEducationPerct,Attrtion_Reason_PersonalReasons,Attrtion_Reason_PersonalPerct,Attrtion_Reason_InitiatedbyLEA,Attrtion_Reason_InitiatedPerct,Attrtion_Reason_BeyondControlofLEA,Attrtion_Reason_BeyondControlPerct,Attrtion_Reason_OtherReasons,Attrtion_Reason_OtherReasonsPerct
 010,Alamance-Burlington Schools,"1,507",231,108,46.75,38,16.45,58,25.11,10,4.33,17,7.36
 020,Alexander County Schools,338,29,16,55.17,4,13.79,6,20.69,2,6.90,1,3.45
 030,Alleghany County Schools,121,14,3,21.43,3,21.43,7,50.00,1,7.14,0,0.00

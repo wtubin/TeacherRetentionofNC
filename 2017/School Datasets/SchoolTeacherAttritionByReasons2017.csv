@@ -1,4 +1,4 @@
-LEACode,LEAName,TotalTeachers,TeachersLeaving,PersonalReasons,PersonalPerct,InitiatedbyLEA,InitiatedPerct,BeyondControlofLEA,BeyondControlPerct,OtherReasons,OtherReasonsPerct
+LEACode,Lea_Name,Attrtion_Reason_TotalTeachers,Attrtion_Reason_TeachersLeaving,Attrtion_Reason_PersonalReasons,Attrtion_Reason_PersonalPerct,Attrtion_Reason_InitiatedbyLEA,Attrtion_Reason_InitiatedPerct,Attrtion_Reason_BeyondControlofLEA,Attrtion_Reason_BeyondControlPerct,Attrtion_Reason_OtherReasons,Attrtion_Reason_OtherReasonsPerct
 010,Alamance-Burlington Schools,"1,504",129,73,56.6%,17.00,13.2%,25.00,19.4%,14.00,10.9%
 020,Alexander County Schools,327,15,1,6.7%,,0.0%,11.00,73.3%,3.00,20.0%
 030,Alleghany County Schools,118,10,2,20.0%,,0.0%,7.00,70.0%,1.00,10.0%

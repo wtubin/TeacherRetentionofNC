@@ -1,4 +1,4 @@
-unit_code,School_Name,Lea_Name,County,Year,Index Rate,Violent Rate,Property Rate,Murder Rate,Rape Rate,Robbery Rate,Assault Rate,Burglary Rate,Larceny Rate,MVT Rate,Arson Rate
+unit_code,School_Name,Lea_Name,County,Year,Crime_Rate_Index_Rate,Crime_Rate_Violent_Rate,Crime_Rate_Property_Rate,Crime_Rate_Murder_Rate,Crime_Rate_Rape_Rate,Crime_Rate_Robbery_Rate,Crime_Rate_Assault_Rate,Crime_Rate_Burglary_Rate,Crime_Rate_Larceny_Rate,Crime_Rate_MVT_Rate,Crime_Rate_Arson_Rate
 010406,Woodlawn Middle,Alamance-Burlington Schools,Alamance-Burlington,,,,,,,,,,,,
 010358,Hillcrest Elementary,Alamance-Burlington Schools,Alamance-Burlington,,,,,,,,,,,,
 010360,Hugh M Cummings High,Alamance-Burlington Schools,Alamance-Burlington,,,,,,,,,,,,
