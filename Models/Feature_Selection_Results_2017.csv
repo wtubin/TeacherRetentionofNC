@@ -2,47 +2,39 @@ Feature,Pearson,Linear Regression,RFE,Lasso,Ridge,Elastic Net,Total
 student_num,True,True,True,True,True,True,6
 lea_supplies_expense_pct,True,True,True,True,True,True,6
 lea_services_expense_pct,True,True,True,True,True,True,6
-Science Score,True,True,True,True,True,True,6
+lea_salary_expense_pct,True,True,True,True,True,True,6
 SPG Score,True,True,True,True,True,True,6
 MathGr3-8_pTarget_PctMet,True,True,True,True,True,True,6
 EVAAS Growth Score,True,True,True,True,True,True,6
-EOGScienceGr5&8_CACR_White,True,True,True,True,True,True,6
 EOGReadingGr4_GLP_SWD,True,True,True,True,True,True,6
 EOGGr5_CACR_White,True,True,True,True,True,True,6
 EOGGr4_CACR_White,True,True,True,True,True,True,6
 EOGGr4_CACR_All,True,True,True,True,True,True,6
-EOGGr3_CACR_SWD,True,True,True,True,True,True,6
 EOGGr3_CACR_All,True,True,True,True,True,True,6
-EOG/EOCSubjects_CACR_Asian,True,True,True,True,True,True,6
 EOG/EOCSubjects_CACR_All,True,True,True,True,True,True,6
 04_Size,True,True,True,True,True,True,6
 03_Size,True,True,True,True,True,True,6
 tchyrs_11plus_pct,True,True,True,True,True,False,5
 tchyrs_0thru3_pct,True,True,True,True,True,False,5
-pct_GCE_ALL,False,True,True,True,True,True,5
 long_susp_per_c_num,True,True,True,False,True,True,5
-lea_tchyrs_0thru3_pct,True,True,True,True,True,False,5
 lea_sat_avg_score_num,True,True,True,False,True,True,5
-lea_salary_expense_pct,True,False,True,True,True,True,5
 lea_nbpts_num,True,True,True,True,True,False,5
+lea_ap_participation_pct,True,False,True,True,True,True,5
 flicensed_teach_pct,True,True,True,True,True,False,5
 TotalTargets_pTarget_PctMet,False,True,True,True,True,True,5
 Reading SPG Score,True,False,True,True,True,True,5
 Proficient_TCHR_Standard 1_Pct,True,True,True,True,True,False,5
 EOGSubjects_CACR_SWD,True,True,True,False,True,True,5
 EOGSubjects_CACR_Asian,True,False,True,True,True,True,5
-EOGSubjects_CACR_AIG,True,True,False,True,True,True,5
-EOGScienceGr5_CACR_EDS,True,False,True,True,True,True,5
 EOGScienceGr5_CACR_Black,False,True,True,True,True,True,5
+EOGScienceGr5&8_CACR_White,True,False,True,True,True,True,5
 EOGScienceGr5&8_CACR_AmericanIndian,False,True,True,True,True,True,5
 EOGReadingGr5_GLP_AmericanIndian,False,True,True,True,True,True,5
 EOGReadingGr5_CACR_SWD,True,True,True,False,True,True,5
 EOGReadingGr4_CACR_SWD,True,True,True,False,True,True,5
-EOGReadingGr4_CACR_EDS,True,True,True,False,True,True,5
 EOGReadingGr3_GLP_LEP,False,True,True,True,True,True,5
 EOGReadingGr3_CACR_Black,False,True,True,True,True,True,5
 EOGReadingGr3-8_CACR_SWD,True,True,True,False,True,True,5
-EOGMathGr5_CACR_Hispanic,False,True,True,True,True,True,5
 EOGMathGr4_CACR_White,True,False,True,True,True,True,5
 EOGMathGr4_CACR_EDS,True,False,True,True,True,True,5
 EOGMathGr4_CACR_AmericanIndian,False,True,True,True,True,True,5
@@ -50,12 +42,14 @@ EOGMathGr3_CACR_White,True,False,True,True,True,True,5
 EOGMathGr3_CACR_Black,False,True,True,True,True,True,5
 EOGGr5_CACR_SWD,True,False,True,True,True,True,5
 EOGGr3_CACR_White,True,True,True,False,True,True,5
+EOGGr3_CACR_SWD,True,False,True,True,True,True,5
+EOG/EOCSubjects_CACR_White,True,False,True,True,True,True,5
 EOG/EOCSubjects_CACR_SWD,True,True,True,False,True,True,5
 EOG/EOCSubjects_CACR_LEP,True,True,True,False,True,True,5
 EOG/EOCSubjects_CACR_EDS,True,True,True,False,True,True,5
+EOG/EOCSubjects_CACR_Asian,True,False,True,True,True,True,5
 EOCSubjects_CACR_Hispanic,False,True,True,True,True,True,5
 EOCMathI_CACR_Hispanic,False,True,True,True,True,True,5
-EOCMathI_CACR_Female,False,True,True,True,True,True,5
 Domestic production activities deduction Ct 25KLT50K,True,True,True,True,True,False,5
 Developing_TCHR_Standard 4_Pct,True,True,True,True,True,False,5
 Developing_TCHR_Standard 2_Pct,True,True,True,True,True,False,5
@@ -68,36 +62,40 @@ Accomplished_TCHR_Standard 1_Pct,True,True,True,True,True,False,5
 (TCE) prepared returns Ct 25KLT50K,True,True,True,True,True,False,5
 tchyrs_4thru10_pct,True,True,True,False,True,False,4
 stud_internet_comp_num,False,True,True,False,True,True,4
+pct_GCE_ALL,False,False,True,True,True,True,4
+lea_tchyrs_0thru3_pct,True,True,False,True,True,False,4
 lea_sat_participation_pct,False,False,True,True,True,True,4
 lea_salary,True,True,True,False,True,False,4
 lea_long_susp_per_c_num,True,True,True,False,True,False,4
 lea_instruct_equip_exp_pct,False,True,True,True,False,True,4
 lea_expelled_per_c_num,False,True,True,True,True,False,4
 lea_crime_per_c_num,True,True,True,False,True,False,4
-lea_ap_participation_pct,True,False,False,True,True,True,4
+lea_ap_pct_3_or_above,True,False,True,True,False,True,4
 lateral_teach_pct,True,True,True,False,True,False,4
 expelled_per_c_num,False,True,True,False,True,True,4
 esea_status_P,True,False,True,True,True,False,4
-digital_media_pct,False,True,True,True,True,False,4
 crime_per_c_num,False,True,True,False,True,True,4
 category_cd_I,False,True,True,True,True,False,4
+category_cd_H,True,True,True,False,True,False,4
 advance_dgr_pct,True,False,True,True,True,False,4
+Science Score,True,False,False,True,True,True,4
 SPG Grade_I,False,True,True,True,True,False,4
-SPG Grade_F,True,True,False,True,True,False,4
 SBE District_Western,False,True,True,True,True,False,4
+SBE District_Northeast,True,False,True,True,True,False,4
 Residential energy tax credit Amt LT25K,False,True,True,True,True,False,4
 Partnership/S-corp net income (less loss) Amt LT25K,True,True,True,False,True,False,4
 Other non-limited misc deduction Amt LT25K,False,True,True,True,True,False,4
 Other non-limited misc deduction Amt 75KLT100K,False,True,True,True,True,False,4
+Number of farm returns LT25K,True,True,True,True,False,False,4
 Investment interest paid Amt LT25K,False,True,True,True,True,False,4
 Investment interest paid Amt 25KLT50K,True,True,True,False,True,False,4
 Excess earned income credit (refundable) Amt 50KLT75K,False,True,True,True,True,False,4
-Exceeds Expected Growth_TCHR_Student Growth_Pct,True,False,True,True,True,False,4
 EOGSubjects_CACR_LEP,True,True,True,False,False,True,4
 EOGSubjects_CACR_Hispanic,True,False,False,True,True,True,4
+EOGSubjects_CACR_AIG,True,False,False,True,True,True,4
 EOGScienceGr5_CACR_LEP,False,True,True,False,True,True,4
-EOGScienceGr5_CACR_AmericanIndian,False,True,True,True,False,True,4
-EOGScienceGr5&8_CACR_Hispanic,False,False,True,True,True,True,4
+EOGScienceGr5_CACR_EDS,True,False,False,True,True,True,4
+EOGScienceGr5&8_CACR_Black,False,False,True,True,True,True,4
 EOGReadingGr5_GLP_SWD,True,False,True,False,True,True,4
 EOGReadingGr5_CACR_LEP,False,True,True,False,True,True,4
 EOGReadingGr4_CACR_AmericanIndian,False,True,True,True,False,True,4
@@ -106,23 +104,20 @@ EOGReadingGr3-8_CACR_LEP,True,False,True,False,True,True,4
 EOGReadingGr3-8_CACR_Hispanic,True,False,False,True,True,True,4
 EOGReadingGr3-8_CACR_EDS,True,True,False,False,True,True,4
 EOGMathGr5_CACR_LEP,False,True,True,False,True,True,4
-EOGMathGr5_CACR_Black,False,True,False,True,True,True,4
+EOGMathGr5_CACR_Hispanic,False,True,False,True,True,True,4
+EOGMathGr5_CACR_Black,False,False,True,True,True,True,4
 EOGMathGr4_CACR_SWD,True,False,True,False,True,True,4
-EOGMathGr4_CACR_Asian,False,False,True,True,True,True,4
-EOGMathGr3_CACR_LEP,False,True,True,False,True,True,4
 EOGMathGr3-8_CACR_Black,True,False,False,True,True,True,4
-EOGGr5_CACR_Black,True,False,True,True,False,True,4
 EOGGr4_GLP_LEP,False,True,True,False,True,True,4
 EOGGr4_CACR_SWD,True,False,True,False,True,True,4
 EOGGr4_CACR_LEP,False,True,True,False,True,True,4
 EOGGr3_CACR_EDS,True,False,False,True,True,True,4
 EOGGr3_CACR_AmericanIndian,False,True,True,True,False,True,4
 EOG/EOCSubjects_GLP_LEP,True,False,True,True,False,True,4
-EOG/EOCSubjects_CACR_White,True,False,False,True,True,True,4
 EOG/EOCSubjects_CACR_Black,True,False,False,True,True,True,4
 EOCSubjects_CACR_SWD,False,True,True,False,True,True,4
 EOCSubjects_CACR_Black,False,False,True,True,True,True,4
-EOCSubjects_CACR_Asian,False,False,True,True,True,True,4
+EOCMathI_CACR_Female,False,False,True,True,True,True,4
 EOCMathI_CACR_Black,False,False,True,True,True,True,4
 Domestic production activities deduction Ct 50KLT75K,True,True,True,True,False,False,4
 Domestic production activities deduction Amt 50KLT75K,True,True,True,False,True,False,4
@@ -130,27 +125,26 @@ Distinguished_TCHR_Standard 5_Pct,True,True,True,False,True,False,4
 Distinguished_TCHR_Standard 2_Pct,True,True,True,False,True,False,4
 Distinguished_TCHR_Standard 1_Pct,True,True,True,False,True,False,4
 Developing_TCHR_Standard 5_Pct,True,True,True,False,True,False,4
-Deductible points Ct LT25K,True,True,True,True,False,False,4
 Crime_Rate_Index_Rate,False,True,True,True,True,False,4
-Crime_Rate_Burglary_Rate,True,True,False,True,True,False,4
+Crime_Rate_Burglary_Rate,True,False,True,True,True,False,4
 Attrtion_Reason_OtherReasons,False,True,True,True,True,False,4
 Advance premium tax credit Amt GE200K,False,True,True,True,True,False,4
 Accomplished_TCHR_Standard 5_Pct,True,True,True,True,False,False,4
 4-10 Years_LEA_Exp_Pct_Prin,True,True,True,True,False,False,4
-(TCE) prepared returns Ct 75KLT100K,True,True,True,False,True,False,4
 st_tchyrs_0thru3_pct,False,True,True,False,True,False,3
 short_susp_per_c_num,True,False,True,False,False,True,3
 lea_wap_num,False,True,True,True,False,False,3
 lea_tchyrs_4thru10_pct,True,False,True,False,True,False,3
 lea_tchyrs_11plus_pct,True,True,True,False,False,False,3
 lea_short_susp_per_c_num,True,False,True,False,True,False,3
-lea_emer_prov_teach_pct,False,True,True,False,True,False,3
+lea_ib_pct_4_or_above,False,False,True,True,False,True,3
 lea_books_per_student,False,True,True,False,True,False,3
 lea_avg_student_num,False,False,True,True,False,True,3
-lea_ap_pct_3_or_above,True,False,False,True,False,True,3
-category_cd_H,True,False,True,False,True,False,3
+digital_media_pct,False,False,True,True,True,False,3
+category_cd_M,False,True,True,True,False,False,3
+category_cd_E,True,True,True,False,False,False,3
 Self-employed (Keogh) retirement plans Ct LT25K,False,True,True,True,False,False,3
-SBE District_Northeast,True,False,False,True,True,False,3
+SPG Grade_F,True,False,False,True,True,False,3
 Residential energy tax credit Ct LT25K,False,True,True,False,True,False,3
 Proficient_TCHR_Standard 5_Pct,True,True,True,False,False,False,3
 Proficient_TCHR_Standard 4_Pct,True,True,True,False,False,False,3
@@ -158,21 +152,24 @@ Proficient_TCHR_Standard 3_Pct,True,True,True,False,False,False,3
 Proficient_TCHR_Standard 2_Pct,True,True,True,False,False,False,3
 Other non-limited misc deduction Ct LT25K,False,True,True,False,True,False,3
 Other non-limited misc deduction Ct 75KLT100K,False,True,True,False,True,False,3
-Number of farm returns LT25K,True,False,True,True,False,False,3
+Number of farm returns 75KLT100K,True,True,False,True,False,False,3
 Number of farm returns 50KLT75K,True,True,True,False,False,False,3
 Net investment income tax Amt 100KLT200K,False,True,True,False,True,False,3
 Math SPG Grade_F,True,False,False,True,True,False,3
+IndianPct,False,True,False,True,True,False,3
 Health care individual responsibility payment Amt GE200K,False,True,True,False,True,False,3
+Exceeds Expected Growth_TCHR_Student Growth_Pct,True,False,False,True,True,False,3
 EOGSubjects_CACR_TwoorMoreRaces,True,False,False,True,False,True,3
 EOGSubjects_CACR_Black,True,False,False,True,False,True,3
 EOGScienceGr5_GLP_LEP,False,True,True,False,False,True,3
-EOGScienceGr5&8_CACR_EDS,True,False,True,False,False,True,3
-EOGScienceGr5&8_CACR_Black,False,False,False,True,True,True,3
+EOGScienceGr5_CACR_AmericanIndian,False,False,True,True,False,True,3
+EOGScienceGr5&8_CACR_Hispanic,False,False,False,True,True,True,3
 EOGScienceGr5&8_CACR_AIG,True,False,False,True,False,True,3
 EOGReadingGr5_GLP_LEP,False,True,True,False,False,True,3
 EOGReadingGr5_CACR_Hispanic,True,False,False,True,False,True,3
 EOGReadingGr4_CACR_LEP,False,False,True,False,True,True,3
 EOGReadingGr4_CACR_Hispanic,True,False,False,True,False,True,3
+EOGReadingGr4_CACR_EDS,True,False,False,False,True,True,3
 EOGReadingGr4_CACR_Black,False,False,True,True,False,True,3
 EOGReadingGr3_CACR_Hispanic,True,False,False,True,False,True,3
 EOGReadingGr3_CACR_AmericanIndian,False,False,True,True,False,True,3
@@ -180,10 +177,14 @@ EOGReadingGr3-8_GLP_SWD,True,False,True,False,False,True,3
 EOGReadingGr3-8_CACR_Black,True,False,False,True,False,True,3
 EOGMathGr5_CACR_Asian,False,False,False,True,True,True,3
 EOGMathGr5_CACR_AIG,True,False,False,True,False,True,3
+EOGMathGr4_CACR_TwoorMoreRaces,False,False,True,True,False,True,3
 EOGMathGr4_CACR_Hispanic,True,False,False,True,False,True,3
+EOGMathGr4_CACR_Asian,False,False,False,True,True,True,3
 EOGMathGr4_CACR_AIG,True,False,False,True,False,True,3
 EOGMathGr3_GLP_SWD,True,False,False,True,False,True,3
+EOGMathGr3_CACR_LEP,False,False,True,False,True,True,3
 EOGMathGr3_CACR_Hispanic,True,False,False,True,False,True,3
+EOGMathGr3-8_CACR_White,True,False,True,False,False,True,3
 EOGMathGr3-8_CACR_TwoorMoreRaces,True,False,False,True,False,True,3
 EOGMathGr3-8_CACR_LEP,True,False,True,False,False,True,3
 EOGMathGr3-8_CACR_Hispanic,True,False,False,True,False,True,3
@@ -192,6 +193,7 @@ EOGMathGr3-8_CACR_Asian,True,False,False,True,False,True,3
 EOGMathGr3-8_CACR_AIG,True,False,False,True,False,True,3
 EOGGr5_CACR_TwoorMoreRaces,True,False,False,True,False,True,3
 EOGGr5_CACR_Hispanic,True,False,False,True,False,True,3
+EOGGr5_CACR_Black,True,False,False,True,False,True,3
 EOGGr5_CACR_Asian,True,False,False,True,False,True,3
 EOGGr5_CACR_All,True,False,False,True,False,True,3
 EOGGr4_CACR_Hispanic,True,False,False,True,False,True,3
@@ -205,6 +207,7 @@ EOGGr3_CACR_AIG,True,False,False,True,False,True,3
 EOG/EOCSubjects_CACR_TwoorMoreRaces,True,False,False,True,False,True,3
 EOG/EOCSubjects_CACR_Hispanic,True,False,False,True,False,True,3
 EOCSubjects_CACR_LEP,False,True,True,False,False,True,3
+EOCSubjects_CACR_Asian,False,False,False,True,True,True,3
 EOCMathI_GLP_SWD,False,False,False,True,True,True,3
 EOCMathI_CACR_AmericanIndian,False,False,True,True,False,True,3
 Domestic production activities deduction Ct 75KLT100K,False,True,True,True,False,False,3
@@ -212,9 +215,9 @@ Domestic production activities deduction Amt 25KLT50K,False,True,True,False,True
 Distinguished_TCHR_Standard 4_Pct,True,True,True,False,False,False,3
 Distinguished_TCHR_Standard 3_Pct,True,True,True,False,False,False,3
 Developing_TCHR_Standard 3_Pct,True,True,True,False,False,False,3
+Deductible points Ct LT25K,True,True,False,True,False,False,3
 Crime_Rate_Robbery_Rate,False,True,True,False,True,False,3
-AsianPct,False,True,True,False,True,False,3
-Alternative minimum tax Ct 50KLT75K,False,True,False,True,True,False,3
+Alternative minimum tax Ct 50KLT75K,False,False,True,True,True,False,3
 Alternative minimum tax Amt 75KLT100K,False,True,True,True,False,False,3
 Add child tax credit Amt 75KLT100K,True,True,True,False,False,False,3
 Accomplished_TCHR_Standard 4_Pct,True,True,True,False,False,False,3
@@ -226,38 +229,45 @@ Accomplished_TCHR_Standard 2_Pct,True,True,True,False,False,False,3
 00_Size,True,False,False,True,False,True,3
 0-3 Years_LEA_Exp_Pct_Prin,True,True,True,False,False,False,3
 (VITA) prepared returns Ct 25KLT50K,False,True,True,False,True,False,3
+(TCE) prepared returns Ct 75KLT100K,True,True,False,False,True,False,3
+unit_code,False,False,True,True,False,False,2
+st_nbpts_num,False,True,True,False,False,False,2
+nbpts_num,True,False,True,False,False,False,2
 lea_wap_per_classroom,False,False,True,True,False,False,2
-lea_ib_pct_4_or_above,False,False,False,True,False,True,2
+lea_emer_prov_teach_pct,False,False,True,False,True,False,2
 lea_avg_daily_attend_pct,True,False,False,False,False,True,2
+"calendar_type_txt_Regular School, Year-Round Calendar",False,True,False,True,False,False,2
+"calendar_type_txt_Regular School, Traditional Calendar",False,True,False,True,False,False,2
+"calendar_type_txt_Magnet School, Traditional Calendar",False,True,False,True,False,False,2
 books_per_student,False,True,True,False,False,False,2
 avg_daily_attend_pct,True,False,False,False,False,True,2
 avg_age_media_collection,True,False,False,True,False,False,2
-TwoOrMorePct,False,False,True,True,False,False,2
+WhitePct,True,True,False,False,False,False,2
+TwoOrMorePct,False,True,False,True,False,False,2
 Tuition and fees deduction Amt 75KLT100K,True,False,False,False,True,False,2
 Self-employed (Keogh) retirement plans Amt LT25K,False,True,True,False,False,False,2
 SciGr5&8_pTarget_PctMet,True,False,False,False,False,True,2
 SPG Grade_B,True,False,False,True,False,False,2
 Reading SPG Grade_D,True,False,False,True,False,False,2
 Reading SPG Grade_C,True,False,False,True,False,False,2
+PacificIslandPct,False,True,True,False,False,False,2
 PacificIslandMalePct,False,True,True,False,False,False,2
+PacificIslandFemalePct,False,True,True,False,False,False,2
 Number of volunteer prepared returns Tot 50KLT75K,False,True,True,False,False,False,2
-Number of refund anticipation loan returns 50KLT75K,False,True,False,False,True,False,2
-Number of farm returns 75KLT100K,True,False,False,True,False,False,2
-Number of farm returns 100KLT200K,True,False,True,False,False,False,2
+Number of farm returns All,True,True,False,False,False,False,2
+Number of farm returns 25KLT50K,True,True,False,False,False,False,2
+Number of farm returns 100KLT200K,True,True,False,False,False,False,2
 Not Demostrated_TCHR_Standard 4_Pct,False,True,True,False,False,False,2
-Not Demostrated_TCHR_Standard 2_Pct,False,True,True,False,False,False,2
-Not Demostrated_TCHR_Standard 1_Pct,False,False,True,False,True,False,2
 NC Math 1 Score,False,False,False,True,False,True,2
 Math SPG Grade_D,True,False,False,True,False,False,2
 Math SPG Grade_B,True,False,False,True,False,False,2
 Math I_Size,False,False,False,True,False,True,2
-LEACode,False,True,True,False,False,False,2
-Investment interest paid Ct LT25K,False,True,False,False,True,False,2
-IndianPct,False,False,False,True,True,False,2
+Home mortgage interest paid from personal seller Amt LT25K,False,False,True,False,True,False,2
 Grad_project_status_Y,True,False,False,True,False,False,2
 EOGSubjects_CACR_AmericanIndian,False,False,False,True,False,True,2
 EOGScienceGr5_CACR_SWD,True,False,False,False,False,True,2
 EOGScienceGr5&8_CACR_SWD,True,False,False,False,False,True,2
+EOGScienceGr5&8_CACR_EDS,True,False,False,False,False,True,2
 EOGScienceGr5&8_CACR_Asian,False,False,False,True,False,True,2
 EOGReadingGr5_CACR_EDS,True,False,False,False,False,True,2
 EOGReadingGr5_CACR_Black,False,False,False,True,False,True,2
@@ -272,7 +282,6 @@ EOGMathGr5_CACR_TwoorMoreRaces,False,False,False,False,True,True,2
 EOGMathGr5_CACR_SWD,True,False,False,False,False,True,2
 EOGMathGr5_CACR_EDS,True,False,False,False,False,True,2
 EOGMathGr5_CACR_AmericanIndian,False,False,False,True,False,True,2
-EOGMathGr4_CACR_TwoorMoreRaces,False,False,False,True,False,True,2
 EOGMathGr4_CACR_LEP,False,False,False,False,True,True,2
 EOGMathGr4_CACR_Black,False,False,False,True,False,True,2
 EOGMathGr3_CACR_TwoorMoreRaces,False,False,False,True,False,True,2
@@ -281,7 +290,6 @@ EOGMathGr3_CACR_EDS,True,False,False,False,False,True,2
 EOGMathGr3_CACR_Asian,False,False,False,True,False,True,2
 EOGMathGr3_CACR_AmericanIndian,False,False,False,True,False,True,2
 EOGMathGr3_CACR_AIG,True,False,False,False,False,True,2
-EOGMathGr3-8_CACR_White,True,False,False,False,False,True,2
 EOGMathGr3-8_CACR_SWD,True,False,False,False,False,True,2
 EOGMathGr3-8_CACR_AmericanIndian,False,False,False,True,False,True,2
 EOGGr5_CACR_AmericanIndian,False,False,False,True,False,True,2
@@ -297,35 +305,39 @@ EOCSubjects_GLP_LEP,False,False,True,False,False,True,2
 EOCSubjects_CACR_TwoorMoreRaces,False,False,False,True,False,True,2
 EOCSubjects_CACR_AmericanIndian,False,False,False,True,False,True,2
 EOCSubjects_CACR_AIG,False,False,False,True,False,True,2
+EOCMathI_GLP_LEP,False,False,True,False,False,True,2
 EOCMathI_CACR_TwoorMoreRaces,False,False,False,True,False,True,2
 EOCMathI_CACR_Male,False,False,False,True,False,True,2
+EOCMathI_CACR_LEP,False,False,True,False,False,True,2
 EOCMathI_CACR_EDS,False,False,False,True,False,True,2
 EOCMathI_CACR_Asian,False,False,False,True,False,True,2
 EOCMathI_CACR_AIG,False,False,False,True,False,True,2
+Domestic production activities deduction Amt LT25K,False,False,True,False,True,False,2
 Domestic production activities deduction Amt 75KLT100K,False,True,True,False,False,False,2
 Domestic production activities deduction Amt 100KLT200K,True,False,False,True,False,False,2
 Deductible points Amt LT25K,False,False,False,True,True,False,2
 Crime_Rate_MVT_Rate,False,True,True,False,False,False,2
 Crime_Rate_Arson_Rate,False,False,True,False,True,False,2
 Attrtion_Reason_InitiatedbyLEA,False,True,True,False,False,False,2
+AsianPct,False,True,False,False,True,False,2
 Alternative minimum tax Ct 75KLT100K,False,True,True,False,False,False,2
+Alternative minimum tax Amt 50KLT75K,False,False,True,False,True,False,2
 Alternative minimum tax Amt 25KLT50K,False,True,True,False,False,False,2
-(VITA) prepared returns Ct 50KLT75K,False,True,True,False,False,False,2
 (VITA) prepared returns Ct 100KLT200K,False,True,True,False,False,False,2
 (TCE) prepared returns Ct 100KLT200K,False,True,True,False,False,False,2
 wap_per_classroom,True,False,False,False,False,False,1
-unit_code,False,False,False,True,False,False,1
+school_type_txt_Regular School,False,True,False,False,False,False,1
+school_type_txt_Magnet School,False,True,False,False,False,False,1
 pct_eds,True,False,False,False,False,False,1
-nbpts_num,True,False,False,False,False,False,1
 lea_flicensed_teach_pct,True,False,False,False,False,False,1
 lea_advance_dgr_pct,True,False,False,False,False,False,1
-category_cd_M,False,False,False,True,False,False,1
-category_cd_E,True,False,False,False,False,False,1
-"calendar_type_txt_Regular School, Year-Round Calendar",False,False,False,True,False,False,1
-"calendar_type_txt_Regular School, Traditional Calendar",False,False,False,True,False,False,1
-"calendar_type_txt_Magnet School, Traditional Calendar",False,False,False,True,False,False,1
+"calendar_type_txt_Vocational Education, Traditional Calendar",False,True,False,False,False,False,1
+"calendar_type_txt_Magnet School, Year-Round Calendar",False,True,False,False,False,False,1
+calendar_only_txt_Year-Round Calendar,False,True,False,False,False,False,1
 _1_to_1_access_Yes,False,False,False,True,False,False,1
-WhitePct,True,False,False,False,False,False,1
+Year,False,True,False,False,False,False,1
+TwoOrMoreMalePct,False,True,False,False,False,False,1
+TwoOrMoreFemalePct,False,True,False,False,False,False,1
 Tot Add Medicare tax Amt 25KLT50K,False,False,False,False,True,False,1
 SRC_devices_sent_home_Yes,False,False,False,True,False,False,1
 SPG Grade_D,True,False,False,False,False,False,1
@@ -335,48 +347,36 @@ SBE District_Sandhills,False,False,False,True,False,False,1
 SBE District_Northwest,True,False,False,False,False,False,1
 Reading SPG Grade_F,True,False,False,False,False,False,1
 Reading SPG Grade_B,True,False,False,False,False,False,1
-PacificIslandPct,False,False,True,False,False,False,1
-PacificIslandFemalePct,False,False,True,False,False,False,1
 Other non-limited misc deduction Amt 50KLT75K,True,False,False,False,False,False,1
-Number of farm returns GE200K,False,False,True,False,False,False,1
-Number of farm returns All,True,False,False,False,False,False,1
-Number of farm returns 25KLT50K,True,False,False,False,False,False,1
+Number of refund anticipation loan returns 50KLT75K,False,False,False,False,True,False,1
+Number of farm returns GE200K,False,True,False,False,False,False,1
+Not Demostrated_TCHR_Standard 1_Pct,False,False,False,False,True,False,1
 Math SPG Grade_C,True,False,False,False,False,False,1
-Home mortgage interest paid from personal seller Amt LT25K,False,False,False,False,True,False,1
+LEACode,False,False,True,False,False,False,1
+Investment interest paid Ct LT25K,False,False,False,False,True,False,1
+HispanicPct,False,True,False,False,False,False,1
 EVAAS Growth Status_Met,False,False,False,True,False,False,1
 EOGScienceGr5&8_GLP_LEP,False,False,False,False,False,True,1
 EOGScienceGr5&8_CACR_TwoorMoreRaces,False,False,False,False,False,True,1
 EOGScienceGr5&8_CACR_LEP,False,False,False,False,False,True,1
 EOGReadingGr4_GLP_LEP,False,False,False,False,False,True,1
 EOGGr5_CACR_LEP,False,False,False,False,False,True,1
-EOCMathI_GLP_LEP,False,False,False,False,False,True,1
 EOCMathI_CACR_White,False,False,False,False,False,True,1
 EOCMathI_CACR_SWD,False,False,False,False,False,True,1
-EOCMathI_CACR_LEP,False,False,False,False,False,True,1
 Domestic production activities deduction Ct LT25K,False,False,False,True,False,False,1
-Domestic production activities deduction Amt LT25K,False,False,False,False,True,False,1
 Does Not Meet Expected Growth_TCHR_Student Growth_Pct,True,False,False,False,False,False,1
-Crime_Rate_Rape_Rate,False,False,True,False,False,False,1
 Byod_Yes,False,False,False,True,False,False,1
-Alternative minimum tax Amt 50KLT75K,False,False,False,False,True,False,1
+(VITA) prepared returns Ct 50KLT75K,False,True,False,False,False,False,1
 wap_num,False,False,False,False,False,False,0
-st_nbpts_num,False,False,False,False,False,False,0
-school_type_txt_Regular School,False,False,False,False,False,False,0
-school_type_txt_Magnet School,False,False,False,False,False,False,0
 lea_stud_internet_comp_num,False,False,False,False,False,False,0
-"calendar_type_txt_Vocational Education, Traditional Calendar",False,False,False,False,False,False,0
 "calendar_type_txt_Special Education, Traditional Calendar",False,False,False,False,False,False,0
-"calendar_type_txt_Magnet School, Year-Round Calendar",False,False,False,False,False,False,0
 calendar_type_txt_Hospital School,False,False,False,False,False,False,0
-calendar_only_txt_Year-Round Calendar,False,False,False,False,False,False,0
-Year,False,False,False,False,False,False,0
-TwoOrMoreMalePct,False,False,False,False,False,False,0
-TwoOrMoreFemalePct,False,False,False,False,False,False,0
 State Gap Compared_Y,False,False,False,False,False,False,0
 SPG Grade_A+NG,False,False,False,False,False,False,0
 SBE District_Southwest,False,False,False,False,False,False,0
 SBE District_Piedmont-Triad,False,False,False,False,False,False,0
+Not Demostrated_TCHR_Standard 2_Pct,False,False,False,False,False,False,0
 Meets Expected Growth_TCHR_Student Growth_Pct,False,False,False,False,False,False,0
-HispanicPct,False,False,False,False,False,False,0
 Earned income credit Amt 50KLT75K,False,False,False,False,False,False,0
 EVAAS Growth Status_NotMet,False,False,False,False,False,False,0
+Crime_Rate_Rape_Rate,False,False,False,False,False,False,0
