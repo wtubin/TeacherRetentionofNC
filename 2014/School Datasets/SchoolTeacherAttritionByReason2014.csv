@@ -1,5 +1,5 @@
-LEACode,Lea_Name,Attrtion_Reason_TotalTeachers,Attrtion_Reason_TeachersLeaving,Attrtion_Reason_RemainedinEducation,Attrtion_Reason_RemainedinEducationPerct,Attrtion_Reason_PersonalReasons,Attrtion_Reason_PersonalPerct,Attrtion_Reason_InitiatedbyLEA,Attrtion_Reason_InitiatedPerct,Attrtion_Reason_BeyondControlofLEA,Attrtion_Reason_BeyondControlPerct,Attrtion_Reason_OtherReasons,Attrtion_Reason_OtherReasonsPerct
-010,Alamance-Burlington Schools,"1,507",231,108,46.75,38,16.45,58,25.11,10,4.33,17,7.36
+LEACode,Lea_Name,Attrition_Reason_TotalTeachers,Attrition_Reason_TeachersLeaving,Attrition_Reason_RemainedinEducation,Attrition_Reason_RemainedinEducationPerct,Attrition_Reason_PersonalReasons,Attrition_Reason_PersonalPerct,Attrition_Reason_InitiatedbyLEA,Attrition_Reason_InitiatedPerct,Attrition_Reason_BeyondControlofLEA,Attrition_Reason_BeyondControlPerct,Attrition_Reason_OtherReasons,Attrition_Reason_OtherReasonsPerct
+010,Alamance-Burlington Schools,1507,231,108,46.75,38,16.45,58,25.11,10,4.33,17,7.36
 020,Alexander County Schools,338,29,16,55.17,4,13.79,6,20.69,2,6.90,1,3.45
 030,Alleghany County Schools,121,14,3,21.43,3,21.43,7,50.00,1,7.14,0,0.00
 040,Anson County Schools,232,39,16,41.03,6,15.38,16,41.03,0,0.00,1,2.56
@@ -11,103 +11,103 @@ LEACode,Lea_Name,Attrtion_Reason_TotalTeachers,Attrtion_Reason_TeachersLeaving,A
 080,Bertie County Schools,185,57,28,49.12,9,15.79,15,26.32,2,3.51,3,5.26
 090,Bladen County Schools,334,65,25,38.46,21,32.31,13,20.00,5,7.69,1,1.54
 100,Brunswick County Schools,805,120,31,25.83,12,10.00,57,47.50,10,8.33,10,8.33
-110,Buncombe County Schools,"1,672",217,52,23.96,21,9.68,107,49.31,17,7.83,20,9.22
+110,Buncombe County Schools,1672,217,52,23.96,21,9.68,107,49.31,17,7.83,20,9.22
 120,Burke County Schools,847,79,28,35.44,9,11.39,31,39.24,10,12.66,1,1.27
-130,Cabarrus County Schools,"1,895",264,93,35.23,22,8.33,122,46.21,8,3.03,19,7.20
+130,Cabarrus County Schools,1895,264,93,35.23,22,8.33,122,46.21,8,3.03,19,7.20
 140,Caldwell County Schools,838,63,23,36.51,17,26.98,21,33.33,0,0.00,2,3.17
 150,Camden County Schools,125,14,6,42.86,3,21.43,5,35.71,0,0.00,0,0.00
 160,Carteret County Public Schools,650,85,13,15.29,25,29.41,39,45.88,7,8.24,1,1.18
 170,Caswell County Schools,195,33,18,54.55,4,12.12,11,33.33,0,0.00,0,0.00
-180,Catawba County Schools,"1,050",124,52,41.94,25,20.16,41,33.06,4,3.23,2,1.61
-681,Chapel Hill-Carrboro City Schools,942,175,55,31.43,28,16.00,68,38.86,16,9.14,8,4.57
-600,Charlotte-Mecklenburg Schools,"8,609","1,420",344,24.23,205,14.44,689,48.52,86,6.06,96,6.76
+180,Catawba County Schools,1050,124,52,41.94,25,20.16,41,33.06,4,3.23,2,1.61
+681,Chapel Hill-Carrboro Schools,942,175,55,31.43,28,16.00,68,38.86,16,9.14,8,4.57
+600,Charlotte-Mecklenburg Schools,8609,"1,420",344,24.23,205,14.44,689,48.52,86,6.06,96,6.76
 190,Chatham County Schools,588,75,20,26.67,9,12.00,35,46.67,9,12.00,2,2.67
 200,Cherokee County Schools,256,24,5,20.83,9,37.50,8,33.33,0,0.00,2,8.33
 220,Clay County Schools,99,11,5,45.45,1,9.09,5,45.45,0,0.00,0,0.00
-230,Cleveland County Schools,"1,115",144,51,35.42,21,14.58,60,41.67,11,7.64,1,0.69
+230,Cleveland County Schools,1115,144,51,35.42,21,14.58,60,41.67,11,7.64,1,0.69
 821,Clinton City Schools,210,35,11,31.43,8,22.86,11,31.43,0,0.00,5,14.29
 240,Columbus County Schools,397,68,31,45.59,6,8.82,24,35.29,5,7.35,2,2.94
-260,Cumberland County Schools,"3,650",641,119,18.56,120,18.72,258,40.25,41,6.4,103,16.07
-270,Currituck County Schools,254,32,10,31.25,10,31.25,11,34.38,0,0.0,1,3.13
-280,Dare County Schools,396,39,4,10.26,12,30.77,21,53.85,0,0.0,2,5.13
-290,Davidson County Schools,"1,204",112,40,35.71,20,17.86,42,37.5,6,5.36,4,3.57
-300,Davie County Schools,436,57,20,35.09,8,14.04,23,40.35,2,3.51,4,7.02
-310,Duplin County Schools,643,92,31,33.7,23,25.0,30,32.61,0,0.0,8,8.7
-320,Durham Public Schools,"2,389",488,164,33.61,35,7.17,225,46.11,51,10.45,13,2.66
-210,Edenton-Chowan Schools,164,34,18,52.94,3,8.82,9,26.47,2,5.88,2,5.88
-330,Edgecombe County Public Schools,394,95,41,43.16,12,12.63,27,28.42,9,9.47,6,6.32
-700,Elizabeth City-Pasquotank Public Schools,389,68,25,36.76,11,16.18,31,45.59,0,0.0,1,1.47
-861,Elkin City Schools,88,7,4,57.14,2,28.57,1,14.29,0,0.0,0,0.0
-350,Franklin County Schools,579,106,51,48.11,3,2.83,40,37.74,11,10.38,1,0.94
-360,Gaston County Schools,"1,906",247,83,33.6,36,14.57,109,44.13,0,0.0,19,7.69
-370,Gates County Schools,131,12,5,41.67,2,16.67,5,41.67,0,0.0,0,0.0
-380,Graham County Schools,87,5,2,40.0,2,40.0,1,20.0,0,0.0,0,0.0
-390,Granville County Schools,503,105,50,47.62,17,16.19,32,30.48,4,3.81,2,1.9
-400,Greene County Schools,223,49,27,55.1,3,6.12,12,24.49,4,8.16,3,6.12
-410,Guilford County Schools,"4,984",745,194,26.04,87,11.68,329,44.16,75,10.07,60,8.05
-420,Halifax County Schools,227,68,28,41.18,9,13.24,22,32.35,6,8.82,3,4.41
-430,Harnett County Schools,"1,370",266,74,27.82,39,14.66,100,37.59,35,13.16,18,6.77
-440,Haywood County Schools,522,60,18,30.0,10,16.67,24,40.0,5,8.33,3,5.0
-450,Henderson County Schools,921,121,45,37.19,16,13.22,50,41.32,4,3.31,6,4.96
-460,Hertford County Schools,218,41,22,53.66,5,12.2,4,9.76,9,21.95,1,2.44
-181,Hickory City Schools,299,64,24,37.5,12,18.75,21,32.81,0,0.0,7,10.94
-470,Hoke County Schools,549,142,33,23.24,14,9.86,34,23.94,57,40.14,4,2.82
-480,Hyde County Schools,62,14,3,21.43,4,28.57,7,50.0,0,0.0,0,0.0
-490,Iredell-Statesville Schools,"1,300",191,86,45.03,39,20.42,53,27.75,0,0.0,13,6.81
-500,Jackson County Schools,250,37,10,27.03,4,10.81,21,56.76,2,5.41,0,0.0
-510,Johnston County Schools,"2,292",321,125,38.94,33,10.28,134,41.74,28,8.72,1,0.31
-520,Jones County Schools,100,17,6,35.29,4,23.53,3,17.65,0,0.0,4,23.53
-132,Kannapolis City Schools,382,71,39,54.93,3,4.23,25,35.21,3,4.23,1,1.41
-530,Lee County Schools,636,118,43,36.44,9,7.63,52,44.07,5,4.24,9,7.63
-540,Lenoir County Public Schools,581,75,29,38.67,15,20.0,25,33.33,1,1.33,5,6.67
-550,Lincoln County Schools,789,81,30,37.04,16,19.75,27,33.33,6,7.41,2,2.47
-560,Macon County Schools,324,47,11,23.4,13,27.66,19,40.43,3,6.38,1,2.13
-570,Madison County Schools,191,16,5,31.25,4,25.0,6,37.5,1,6.25,0,0.0
-580,Martin County Schools,259,25,8,32.0,7,28.0,9,36.0,0,0.0,1,4.0
-590,McDowell County Schools,439,48,23,47.92,7,14.58,12,25.0,2,4.17,4,8.33
-610,Mitchell County Schools,148,16,4,25.0,8,50.0,4,25.0,0,0.0,0,0.0
-620,Montgomery County Schools,283,39,19,48.72,5,12.82,15,38.46,0,0.0,0,0.0
-630,Moore County Schools,833,144,32,22.22,16,11.11,85,59.03,4,2.78,7,4.86
-491,Mooresville Graded School District,354,42,17,40.48,3,7.14,13,30.95,7,16.67,2,4.76
-862,Mount Airy City Schools,120,17,10,58.82,6,35.29,0,0.0,1,5.88,0,0.0
-640,Nash-Rocky Mount Schools,947,174,40,22.99,24,13.79,38,21.84,71,40.8,1,0.57
-650,New Hanover County Schools,"1,686",212,55,25.94,34,16.04,99,46.7,8,3.77,16,7.55
-182,Newton Conover City Schools,205,37,20,54.05,3,8.11,13,35.14,1,2.7,0,0.0
-660,Northampton County Schools,155,52,14,26.92,17,32.69,17,32.69,2,3.85,2,3.85
-670,Onslow County Schools,"1,589",246,36,14.63,50,20.33,142,57.72,2,0.81,16,6.5
-680,Orange County Schools,559,90,35,38.89,16,17.78,36,40.0,1,1.11,2,2.22
-690,Pamlico County Schools,104,17,9,52.94,1,5.88,2,11.76,2,11.76,3,17.65
-710,Pender County Schools,532,78,32,41.03,7,8.97,37,47.44,0,0.0,2,2.56
-720,Perquimans County Schools,121,25,16,64.0,4,16.0,5,20.0,0,0.0,0,0.0
-730,Person County Schools,311,62,30,48.39,8,12.9,22,35.48,0,0.0,2,3.23
-740,Pitt County Schools,"1,638",286,113,39.51,35,12.24,112,39.16,8,2.8,18,6.29
-750,Polk County Schools,189,22,4,18.18,7,31.82,6,27.27,3,13.64,2,9.09
-780,Public Schools of Robeson County,"1,511",240,119,49.58,45,18.75,65,27.08,4,1.67,7,2.92
-760,Randolph County Schools,"1,193",153,60,39.22,25,16.34,52,33.99,3,1.96,13,8.5
-770,Richmond County Schools,497,97,13,13.4,16,16.49,42,43.3,17,17.53,9,9.28
-421,Roanoke Rapids City Schools,190,28,12,42.86,7,25.0,5,17.86,1,3.57,3,10.71
-790,Rockingham County Schools,881,93,27,29.03,14,15.05,42,45.16,2,2.15,8,8.6
-800,Rowan-Salisbury Schools,"1,300",183,82,44.81,14,7.65,72,39.34,10,5.46,5,2.73
-810,Rutherford County Schools,556,51,16,31.37,16,31.37,18,35.29,1,1.96,0,0.0
-820,Sampson County Schools,570,61,27,44.26,12,19.67,20,32.79,1,1.64,1,1.64
-830,Scotland County Schools,432,82,34,41.46,17,20.73,27,32.93,0,0.0,4,4.88
-840,Stanly County Schools,607,71,32,45.07,12,16.9,24,33.8,3,4.23,0,0.0
-850,Stokes County Schools,471,57,29,50.88,16,28.07,11,19.3,0,0.0,1,1.75
-870,Swain County Schools,139,16,6,37.5,2,12.5,5,31.25,1,6.25,2,12.5
-292,Thomasville City Schools,168,36,20,55.56,5,13.89,7,19.44,1,2.78,3,8.33
-880,Transylvania County Schools,273,44,15,34.09,13,29.55,15,34.09,1,2.27,0,0.0
-890,Tyrrell County Schools,49,5,1,20.0,2,40.0,1,20.0,0,0.0,1,20.0
-900,Union County Public Schools,"2,567",401,138,34.41,29,7.23,163,40.65,24,5.99,47,11.72
-910,Vance County Schools,486,92,45,48.91,16,17.39,22,23.91,5,5.43,4,4.35
-920,Wake County Schools,"10,144","1,355",288,21.25,152,11.22,613,45.24,119,8.78,183,13.51
-930,Warren County Schools,163,49,18,36.73,20,40.82,9,18.37,1,2.04,1,2.04
-940,Washington County Schools,113,35,3,8.57,9,25.71,6,17.14,16,45.71,1,2.86
-950,Watauga County Schools,355,52,12,23.08,9,17.31,18,34.62,8,15.38,5,9.62
-960,Wayne County Public Schools,"1,218",142,48,33.8,46,32.39,42,29.58,5,3.52,1,0.7
-422,Weldon City Schools,74,13,3,23.08,4,30.77,5,38.46,1,7.69,0,0.0
-241,Whiteville City Schools,163,19,3,15.79,9,47.37,4,21.05,2,10.53,1,5.26
-970,Wilkes County Schools,631,63,27,42.86,9,14.29,24,38.1,1,1.59,2,3.17
-980,Wilson County Schools,747,124,62,50.0,6,4.84,43,34.68,6,4.84,7,5.65
-340,Winston-Salem/Forsyth Schools,"3,826",472,93,19.7,78,16.53,217,45.97,8,1.69,76,16.1
-990,Yadkin County Schools,377,33,15,45.45,3,9.09,10,30.3,2,6.06,3,9.09
-995,Yancey County Schools,171,10,3,30.0,2,20.0,5,50.0,0,0.0,0,0.0
+260,Cumberland County Schools,3650,641,119,,120,,258,,41,,103,
+270,Currituck County Schools,254,32,10,,10,,11,,0,,1,
+280,Dare County Schools,396,39,4,,12,,21,,0,,2,
+290,Davidson County Schools,1204,112,40,,20,,42,,6,,4,
+300,Davie County Schools,436,57,20,,8,,23,,2,,4,
+310,Duplin County Schools,643,92,31,,23,,30,,0,,8,
+320,Durham Public Schools,2389,488,164,,35,,225,,51,,13,
+210,Edenton-Chowan Schools,164,34,18,,3,,9,,2,,2,
+330,Edgecombe County Public Schools,394,95,41,,12,,27,,9,,6,
+700,Elizabeth City-Pasquotank Public Schools,389,68,25,,11,,31,,0,,1,
+861,Elkin City Schools,88,7,4,,2,,1,,0,,0,
+350,Franklin County Schools,579,106,51,,3,,40,,11,,1,
+360,Gaston County Schools,1906,247,83,,36,,109,,0,,19,
+370,Gates County Schools,131,12,5,,2,,5,,0,,0,
+380,Graham County Schools,87,5,2,,2,,1,,0,,0,
+390,Granville County Schools,503,105,50,,17,,32,,4,,2,
+400,Greene County Schools,223,49,27,,3,,12,,4,,3,
+410,Guilford County Schools,4984,745,194,,87,,329,,75,,60,
+420,Halifax County Schools,227,68,28,,9,,22,,6,,3,
+430,Harnett County Schools,1370,266,74,,39,,100,,35,,18,
+440,Haywood County Schools,522,60,18,,10,,24,,5,,3,
+450,Henderson County Schools,921,121,45,,16,,50,,4,,6,
+460,Hertford County Schools,218,41,22,,5,,4,,9,,1,
+181,Hickory City Schools,299,64,24,,12,,21,,0,,7,
+470,Hoke County Schools,549,142,33,,14,,34,,57,,4,
+480,Hyde County Schools,62,14,3,,4,,7,,0,,0,
+490,Iredell-Statesville Schools,1300,191,86,,39,,53,,0,,13,
+500,Jackson County Schools,250,37,10,,4,,21,,2,,0,
+510,Johnston County Schools,2292,321,125,,33,,134,,28,,1,
+520,Jones County Schools,100,17,6,,4,,3,,0,,4,
+132,Kannapolis City Schools,382,71,39,,3,,25,,3,,1,
+530,Lee County Schools,636,118,43,,9,,52,,5,,9,
+540,Lenoir County Public Schools,581,75,29,,15,,25,,1,,5,
+550,Lincoln County Schools,789,81,30,,16,,27,,6,,2,
+560,Macon County Schools,324,47,11,,13,,19,,3,,1,
+570,Madison County Schools,191,16,5,,4,,6,,1,,0,
+580,Martin County Schools,259,25,8,,7,,9,,0,,1,
+590,McDowell County Schools,439,48,23,,7,,12,,2,,4,
+610,Mitchell County Schools,148,16,4,,8,,4,,0,,0,
+620,Montgomery County Schools,283,39,19,,5,,15,,0,,0,
+630,Moore County Schools,833,144,32,,16,,85,,4,,7,
+491,Mooresville Graded School District,354,42,17,,3,,13,,7,,2,
+862,Mount Airy City Schools,120,17,10,,6,,0,,1,,0,
+640,Nash-Rocky Mount Schools,947,174,40,,24,,38,,71,,1,
+650,New Hanover County Schools,1686,212,55,,34,,99,,8,,16,
+182,Newton Conover City Schools,205,37,20,,3,,13,,1,,0,
+660,Northampton County Schools,155,52,14,,17,,17,,2,,2,
+670,Onslow County Schools,1589,246,36,,50,,142,,2,,16,
+680,Orange County Schools,559,90,35,,16,,36,,1,,2,
+690,Pamlico County Schools,104,17,9,,1,,2,,2,,3,
+710,Pender County Schools,532,78,32,,7,,37,,0,,2,
+720,Perquimans County Schools,121,25,16,,4,,5,,0,,0,
+730,Person County Schools,311,62,30,,8,,22,,0,,2,
+740,Pitt County Schools,1638,286,113,,35,,112,,8,,18,
+750,Polk County Schools,189,22,4,,7,,6,,3,,2,
+780,Public Schools of Robeson County,1511,240,119,,45,,65,,4,,7,
+760,Randolph County Schools,1193,153,60,,25,,52,,3,,13,
+770,Richmond County Schools,497,97,13,,16,,42,,17,,9,
+421,Roanoke Rapids City Schools,190,28,12,,7,,5,,1,,3,
+790,Rockingham County Schools,881,93,27,,14,,42,,2,,8,
+800,Rowan-Salisbury Schools,1300,183,82,,14,,72,,10,,5,
+810,Rutherford County Schools,556,51,16,,16,,18,,1,,0,
+820,Sampson County Schools,570,61,27,,12,,20,,1,,1,
+830,Scotland County Schools,432,82,34,,17,,27,,0,,4,
+840,Stanly County Schools,607,71,32,,12,,24,,3,,0,
+850,Stokes County Schools,471,57,29,,16,,11,,0,,1,
+870,Swain County Schools,139,16,6,,2,,5,,1,,2,
+292,Thomasville City Schools,168,36,20,,5,,7,,1,,3,
+880,Transylvania County Schools,273,44,15,,13,,15,,1,,0,
+890,Tyrrell County Schools,49,5,1,,2,,1,,0,,1,
+900,Union County Public Schools,2567,401,138,,29,,163,,24,,47,
+910,Vance County Schools,486,92,45,,16,,22,,5,,4,
+920,Wake County Schools,10144,"1,355",288,,152,,613,,119,,183,
+930,Warren County Schools,163,49,18,,20,,9,,1,,1,
+940,Washington County Schools,113,35,3,,9,,6,,16,,1,
+950,Watauga County Schools,355,52,12,,9,,18,,8,,5,
+960,Wayne County Public Schools,1218,142,48,,46,,42,,5,,1,
+422,Weldon City Schools,74,13,3,,4,,5,,1,,0,
+241,Whiteville City Schools,163,19,3,,9,,4,,2,,1,
+970,Wilkes County Schools,631,63,27,,9,,24,,1,,2,
+980,Wilson County Schools,747,124,62,,6,,43,,6,,7,
+340,Winston-Salem/Forsyth Schools,3826,472,93,,78,,217,,8,,76,
+990,Yadkin County Schools,377,33,15,,3,,10,,2,,3,
+995,Yancey County Schools,171,10,3,,2,,5,,0,,0,
