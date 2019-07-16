@@ -1,394 +1,394 @@
 ,Linear reg,Ridge,Lasso,ElasticNet,RFE,RF,Corr.,MIC,Mean
-tchyrs_0thru3_pct,0.42,1.0,1.0,1.0,0.9,1.0,1.0,1.0,0.92
-lateral_teach_pct,0.42,0.39,0.7,0.63,0.77,0.08,0.74,0.63,0.55
-Proficient_TCHR_Standard 1_Pct,0.42,0.53,0.52,0.54,0.85,0.1,0.48,0.49,0.49
-tchyrs_11plus_pct,0.42,0.77,0.3,0.31,0.85,0.06,0.45,0.52,0.46
-flicensed_teach_pct,0.42,0.23,0.33,0.22,0.85,0.21,0.66,0.69,0.45
-Developing_TCHR_Standard 4_Pct,0.42,0.48,0.6,0.6,0.63,0.03,0.32,0.31,0.42
-Crime_Rate_Murder_Rate,0.42,0.63,0.55,0.63,0.76,0.01,0.15,0.14,0.41
-Attrition_Reason_OtherReasonsPerct,0.42,0.48,0.52,0.48,0.84,0.07,0.16,0.24,0.4
-st_avg_student_num,1.0,0.43,0.33,0.31,0.98,0.0,0.01,0.11,0.4
-EOG/EOCSubjects_CACR_AIG,0.42,0.69,0.38,0.5,0.8,0.02,0.08,0.3,0.4
-Proficient_TCHR_Standard 2_Pct,0.42,0.45,0.33,0.31,0.89,0.03,0.33,0.41,0.4
-Accomplished_TCHR_Standard 2_Pct,0.42,0.48,0.36,0.37,0.89,0.03,0.26,0.26,0.38
-Proficient_TCHR_Standard 3_Pct,0.42,0.4,0.33,0.31,0.87,0.03,0.28,0.38,0.38
-Health care individual responsibility payment Amt GE200K,0.42,0.92,0.33,0.44,0.86,0.0,0.0,0.04,0.38
-lea_services_expense_pct,0.27,0.55,0.41,0.43,1.0,0.03,0.18,0.17,0.38
-lea_tchyrs_0thru3_pct,0.42,0.45,0.47,0.46,0.33,0.11,0.48,0.34,0.38
-Developing_TCHR_Standard 2_Pct,0.42,0.47,0.39,0.39,0.77,0.02,0.2,0.29,0.37
-Accomplished_TCHR_Standard 3_Pct,0.42,0.4,0.33,0.31,0.87,0.03,0.29,0.32,0.37
-Accomplished_TCHR_Standard 4_Pct,0.42,0.41,0.33,0.31,0.61,0.04,0.4,0.41,0.37
-Accomplished_TCHR_Standard 5_Pct,0.42,0.44,0.33,0.31,0.88,0.03,0.25,0.3,0.37
-Proficient_TCHR_Standard 5_Pct,0.42,0.44,0.33,0.31,0.88,0.02,0.26,0.28,0.37
-Proficient_TCHR_Standard 4_Pct,0.42,0.38,0.33,0.3,0.61,0.04,0.41,0.46,0.37
-EOGGr3_CACR_White,0.42,0.55,0.35,0.4,0.77,0.01,0.13,0.23,0.36
-EOG/EOCSubjects_CACR_White,0.42,0.52,0.44,0.44,0.62,0.03,0.16,0.24,0.36
-MathGr3-8_pTarget_PctMet,0.42,0.72,0.41,0.48,0.73,0.0,0.01,0.08,0.36
-EOG/EOCSubjects_CACR_All,0.42,0.36,0.33,0.31,0.5,0.03,0.32,0.53,0.35
-EOGGr5_CACR_White,0.42,0.58,0.42,0.43,0.66,0.01,0.1,0.21,0.35
-category_cd_E,0.61,0.42,0.33,0.31,0.99,0.0,0.04,0.09,0.35
-EOGMathGr4_CACR_White,0.42,0.53,0.37,0.39,0.68,0.0,0.14,0.27,0.35
-lea_federal_perpupil_num,0.43,0.43,0.33,0.31,0.94,0.01,0.14,0.13,0.34
-st_expelled_per_c_num,0.57,0.44,0.33,0.31,0.96,0.0,0.02,0.05,0.34
-st_flicensed_teach_pct,0.52,0.43,0.33,0.31,1.0,0.0,0.02,0.09,0.34
-SPG Score,0.42,0.33,0.29,0.27,0.62,0.03,0.22,0.51,0.34
-st_long_susp_per_c_num,0.53,0.44,0.33,0.31,0.98,0.0,0.04,0.11,0.34
-Developing_TCHR_Standard 3_Pct,0.42,0.42,0.33,0.31,0.87,0.01,0.15,0.23,0.34
-st_crime_per_c_num,0.46,0.44,0.33,0.34,0.94,0.0,0.05,0.12,0.34
-EOGMathGr4_CACR_EDS,0.42,0.52,0.42,0.43,0.65,0.01,0.08,0.2,0.34
-tchyrs_4thru10_pct,0.42,0.68,0.33,0.35,0.85,0.04,0.02,0.03,0.34
-Developing_TCHR_Standard 5_Pct,0.42,0.41,0.33,0.31,0.88,0.01,0.13,0.23,0.34
-Attrition_Reason_OtherReasons,0.42,0.59,0.33,0.37,0.89,0.01,0.0,0.14,0.34
-Does Not Meet Expected Growth_TCHR_Student Growth_Pct,0.42,0.5,0.45,0.45,0.54,0.04,0.16,0.2,0.34
-short_susp_per_c_num,0.42,0.48,0.33,0.31,0.43,0.19,0.16,0.43,0.34
-Number of farm returns 100KLT200K,0.39,0.55,0.33,0.31,0.93,0.01,0.04,0.12,0.34
-st_tchyrs_0thru3_pct,0.61,0.44,0.33,0.31,0.98,0.0,0.0,0.04,0.34
-st_tchyrs_11plus_pct,0.55,0.43,0.33,0.31,0.99,0.0,0.01,0.12,0.34
-Number of farm returns All,0.51,0.48,0.33,0.31,0.94,0.01,0.06,0.11,0.34
-Accomplished_TCHR_Standard 1_Pct,0.42,0.34,0.25,0.25,0.6,0.06,0.38,0.38,0.34
-Science Score,0.42,0.59,0.33,0.38,0.62,0.01,0.06,0.27,0.34
-Distinguished_TCHR_Standard 5_Pct,0.42,0.49,0.33,0.38,0.88,0.02,0.06,0.14,0.34
-EOGSubjects_CACR_SWD,0.42,0.64,0.33,0.37,0.52,0.01,0.11,0.22,0.33
-(TCE) prepared returns Ct 25KLT50K,0.42,0.58,0.33,0.31,0.86,0.01,0.02,0.13,0.33
-Number of farm returns LT25K,0.41,0.46,0.33,0.31,0.92,0.02,0.08,0.13,0.33
-Crime_Rate_Rape_Rate,0.42,0.52,0.45,0.45,0.7,0.02,0.01,0.07,0.33
-EOGGr3_CACR_SWD,0.42,0.51,0.43,0.42,0.59,0.01,0.07,0.16,0.33
-Self-employed (Keogh) retirement plans Ct LT25K,0.42,0.62,0.34,0.36,0.82,0.0,0.0,0.05,0.33
-Tuition and fees deduction Amt 75KLT100K,0.42,0.65,0.33,0.31,0.83,0.0,0.01,0.08,0.33
-Number of farm returns 50KLT75K,0.41,0.54,0.33,0.31,0.93,0.01,0.02,0.08,0.33
-lea_state_perpupil_num,0.43,0.47,0.33,0.31,0.95,0.01,0.05,0.11,0.33
-lea_total_expense_num,0.42,0.43,0.33,0.31,0.95,0.01,0.06,0.08,0.32
-pct_eds,0.42,0.46,0.42,0.41,0.28,0.06,0.2,0.28,0.32
-lea_avg_daily_attend_pct,0.42,0.46,0.33,0.37,0.69,0.01,0.09,0.2,0.32
-EOCMathI_CACR_Hispanic,0.42,0.54,0.38,0.43,0.67,0.0,0.0,0.14,0.32
-school_type_txt_Regular School,0.45,0.49,0.31,0.31,0.97,0.0,0.02,0.04,0.32
-EOGMathGr3-8_CACR_EDS,0.42,0.51,0.33,0.31,0.54,0.01,0.12,0.29,0.32
-lea_instruct_equip_exp_pct,0.36,0.49,0.34,0.36,1.0,0.02,0.0,0.03,0.32
-category_cd_I,0.45,0.42,0.33,0.31,0.99,0.0,0.01,0.05,0.32
-4-10 Years_LEA_Exp_Pct_Prin,0.42,0.45,0.33,0.31,0.9,0.03,0.02,0.08,0.32
-Reading SPG Score,0.42,0.5,0.33,0.31,0.51,0.01,0.09,0.36,0.32
-10+ Years_LEA_Exp_Pct_Prin,0.42,0.47,0.33,0.31,0.9,0.01,0.02,0.07,0.32
-Investment interest paid Amt 25KLT50K,0.42,0.64,0.33,0.31,0.72,0.0,0.02,0.08,0.32
-Excess earned income credit (refundable) Amt 50KLT75K,0.42,0.6,0.33,0.31,0.82,0.0,0.01,0.11,0.32
-Distinguished_TCHR_Standard 3_Pct,0.42,0.42,0.33,0.31,0.87,0.01,0.06,0.11,0.32
-Developing_TCHR_Standard 1_Pct,0.42,0.43,0.33,0.31,0.6,0.03,0.2,0.2,0.32
-Number of farm returns 25KLT50K,0.41,0.5,0.33,0.31,0.93,0.01,0.04,0.07,0.32
-(VITA) prepared returns Ct 100KLT200K,0.42,0.5,0.33,0.31,0.81,0.0,0.02,0.17,0.32
-category_cd_M,0.39,0.44,0.34,0.32,0.96,0.0,0.03,0.05,0.32
-calendar_only_txt_Year-Round Calendar,0.43,0.44,0.33,0.31,0.95,0.0,0.0,0.01,0.31
-school_type_txt_Magnet School,0.41,0.46,0.33,0.31,0.95,0.0,0.0,0.03,0.31
-Attrition_Reason_PersonalPerct,0.42,0.44,0.33,0.31,0.84,0.01,0.03,0.07,0.31
-EOG/EOCSubjects_CACR_Black,0.42,0.54,0.41,0.44,0.49,0.04,0.01,0.13,0.31
-SBE District_Southwest,0.42,0.51,0.38,0.38,0.78,0.0,0.01,0.03,0.31
-st_avg_daily_attend_pct,0.39,0.41,0.33,0.31,0.97,0.0,0.0,0.04,0.31
-EOG/EOCSubjects_CACR_LEP,0.42,0.54,0.33,0.33,0.74,0.01,0.03,0.1,0.31
-EOGMathGr3_CACR_White,0.42,0.28,0.24,0.2,0.78,0.01,0.17,0.35,0.31
-Attrition_Reason_InitiatedPerct,0.42,0.42,0.33,0.31,0.84,0.01,0.05,0.08,0.31
-"calendar_type_txt_Magnet School, Traditional Calendar",0.43,0.46,0.29,0.29,0.96,0.0,0.0,0.03,0.31
-LEACode,0.42,0.43,0.33,0.32,0.91,0.01,0.0,0.03,0.31
-lea_sat_participation_pct,0.42,0.54,0.41,0.43,0.63,0.02,0.02,0.05,0.31
-Advance premium tax credit Amt GE200K,0.42,0.59,0.33,0.41,0.73,0.0,0.0,0.01,0.31
-Alternative minimum tax Ct 75KLT100K,0.42,0.64,0.33,0.31,0.78,0.0,0.0,0.03,0.31
-lea_ap_pct_3_or_above,0.42,0.48,0.31,0.3,0.59,0.02,0.17,0.2,0.31
-Domestic production activities deduction Ct 75KLT100K,0.42,0.67,0.44,0.53,0.37,0.0,0.0,0.08,0.31
-"calendar_type_txt_Magnet School, Year-Round Calendar",0.43,0.45,0.33,0.33,0.91,0.0,0.01,0.04,0.31
-lea_supplies_expense_pct,0.27,0.41,0.33,0.31,1.0,0.01,0.04,0.08,0.31
-"calendar_type_txt_Regular School, Traditional Calendar",0.39,0.48,0.33,0.31,0.97,0.0,0.01,0.02,0.31
-04_Size,0.42,0.52,0.33,0.36,0.67,0.01,0.05,0.12,0.31
-Crime_Rate_Robbery_Rate,0.42,0.51,0.33,0.31,0.8,0.01,0.03,0.1,0.31
-unit_code,0.42,0.43,0.34,0.34,0.91,0.02,0.0,0.03,0.31
-Deductible points Amt LT25K,0.42,0.52,0.33,0.31,0.82,0.0,0.0,0.07,0.31
-"calendar_type_txt_Regular School, Year-Round Calendar",0.4,0.43,0.32,0.31,0.97,0.0,0.01,0.02,0.31
-Distinguished_TCHR_Standard 2_Pct,0.42,0.37,0.3,0.23,0.89,0.02,0.09,0.18,0.31
-EOGGr4_CACR_All,0.42,0.31,0.33,0.28,0.66,0.01,0.14,0.33,0.31
-Pct of Anticipation Checks,0.42,0.42,0.33,0.31,0.68,0.01,0.13,0.18,0.31
-Domestic production activities deduction Amt 50KLT75K,0.42,0.5,0.33,0.34,0.72,0.0,0.02,0.12,0.31
-st_short_susp_per_c_num,0.26,0.45,0.33,0.32,0.96,0.0,0.07,0.12,0.31
-nbpts_num,0.42,0.47,0.33,0.32,0.4,0.02,0.12,0.38,0.31
-lea_local_perpupil_num,0.43,0.37,0.33,0.31,0.94,0.01,0.0,0.07,0.31
-Other non-limited misc deduction Amt LT25K,0.42,0.47,0.33,0.31,0.81,0.0,0.0,0.07,0.3
-SBE District_Southeast,0.42,0.52,0.34,0.35,0.76,0.0,0.01,0.03,0.3
-Number of farm returns GE200K,0.42,0.35,0.33,0.31,0.92,0.0,0.01,0.07,0.3
-lea_long_susp_per_c_num,0.42,0.51,0.33,0.44,0.55,0.01,0.03,0.09,0.3
-EOGMathGr5_CACR_Hispanic,0.42,0.55,0.37,0.4,0.56,0.01,0.0,0.07,0.3
-SBE District_Sandhills,0.42,0.53,0.35,0.39,0.65,0.0,0.01,0.03,0.3
-EOGReadingGr3-8_CACR_EDS,0.42,0.33,0.33,0.31,0.56,0.01,0.11,0.3,0.3
-EOGReadingGr3_CACR_Black,0.42,0.53,0.35,0.38,0.57,0.01,0.0,0.1,0.3
-EOGGr5_CACR_All,0.42,0.33,0.33,0.31,0.57,0.0,0.12,0.28,0.3
-EOGScienceGr5&8_CACR_EDS,0.42,0.52,0.33,0.31,0.56,0.01,0.05,0.19,0.3
-esea_status_P,0.42,0.47,0.4,0.39,0.46,0.0,0.1,0.15,0.3
-lea_wap_num,0.42,0.53,0.33,0.31,0.7,0.01,0.01,0.08,0.3
-lea_stud_internet_comp_num,0.42,0.5,0.33,0.34,0.79,0.01,0.0,0.04,0.3
-Domestic production activities deduction Amt 100KLT200K,0.42,0.46,0.34,0.37,0.71,0.01,0.02,0.06,0.3
-Crime_Rate_MVT_Rate,0.42,0.54,0.33,0.31,0.75,0.02,0.0,0.01,0.3
-st_emer_prov_teach_pct,0.24,0.43,0.35,0.34,1.0,0.0,0.0,0.07,0.3
-(VITA) prepared returns Ct 50KLT75K,0.42,0.44,0.33,0.31,0.86,0.0,0.0,0.07,0.3
-0-3 Years_LEA_Exp_Pct_Prin,0.42,0.39,0.29,0.24,0.91,0.03,0.05,0.09,0.3
-st_nbpts_num,0.24,0.44,0.33,0.31,0.99,0.0,0.0,0.07,0.3
-EOGMathGr5_CACR_White,0.42,0.48,0.33,0.33,0.32,0.0,0.15,0.28,0.29
-SPG Grade_D,0.42,0.39,0.33,0.31,0.48,0.0,0.16,0.24,0.29
-EOGMathGr3-8_CACR_SWD,0.42,0.39,0.33,0.31,0.52,0.01,0.12,0.24,0.29
-EOGMathGr3-8_CACR_TwoorMoreRaces,0.42,0.48,0.37,0.37,0.48,0.0,0.02,0.15,0.29
-Investment interest paid Ct LT25K,0.42,0.4,0.33,0.32,0.76,0.0,0.0,0.05,0.29
-Math SPG Grade_D,0.42,0.47,0.36,0.36,0.54,0.0,0.07,0.12,0.29
-Attrition_Reason_BeyondControlPerct,0.42,0.37,0.28,0.23,0.84,0.01,0.07,0.11,0.29
-lea_flicensed_teach_pct,0.42,0.43,0.33,0.31,0.07,0.07,0.42,0.3,0.29
-lea_sat_avg_score_num,0.42,0.32,0.25,0.1,0.64,0.1,0.16,0.3,0.29
-EOGMathGr4_CACR_AIG,0.42,0.47,0.35,0.34,0.51,0.0,0.06,0.14,0.29
-Add child tax credit Amt 25KLT50K,0.42,0.2,0.33,0.31,0.9,0.01,0.01,0.1,0.29
-Domestic production activities deduction Ct LT25K,0.42,0.5,0.32,0.31,0.75,0.0,0.01,0.04,0.29
-EOG/EOCSubjects_CACR_EDS,0.42,0.33,0.27,0.16,0.49,0.04,0.23,0.4,0.29
-student_num,0.42,0.37,0.33,0.29,0.48,0.07,0.0,0.35,0.29
-EOGSubjects_CACR_LEP,0.42,0.36,0.33,0.31,0.74,0.01,0.03,0.09,0.29
-Other non-limited misc deduction Ct LT25K,0.42,0.34,0.33,0.31,0.81,0.0,0.0,0.07,0.29
-Distinguished_TCHR_Standard 4_Pct,0.42,0.45,0.33,0.33,0.6,0.01,0.06,0.15,0.29
-SPG Grade_B,0.42,0.35,0.3,0.28,0.5,0.0,0.12,0.31,0.29
-Residential energy tax credit Amt LT25K,0.42,0.48,0.33,0.31,0.76,0.0,0.0,0.03,0.29
-Other non-limited misc deduction Ct 75KLT100K,0.42,0.49,0.33,0.31,0.68,0.0,0.01,0.11,0.29
-EOGScienceGr5_CACR_EDS,0.42,0.34,0.27,0.25,0.66,0.01,0.08,0.2,0.28
-EOCSubjects_CACR_LEP,0.42,0.37,0.33,0.31,0.74,0.0,0.0,0.07,0.28
-EOGMathGr5_CACR_Black,0.42,0.5,0.33,0.34,0.52,0.0,0.0,0.1,0.28
-Alternative minimum tax Amt 50KLT75K,0.42,0.47,0.33,0.31,0.71,0.0,0.0,0.04,0.28
-Distinguished_TCHR_Standard 1_Pct,0.42,0.33,0.33,0.31,0.61,0.02,0.08,0.11,0.28
-EOG/EOCSubjects_CACR_Asian,0.42,0.53,0.36,0.36,0.45,0.01,0.01,0.12,0.28
-EOGSubjects_CACR_Hispanic,0.42,0.48,0.35,0.39,0.42,0.01,0.05,0.15,0.28
-EOGScienceGr5&8_CACR_White,0.42,0.32,0.3,0.27,0.62,0.01,0.11,0.22,0.28
-EOGScienceGr5&8_CACR_Black,0.42,0.5,0.33,0.34,0.44,0.01,0.01,0.18,0.28
-Domestic production activities deduction Ct 25KLT50K,0.42,0.45,0.34,0.31,0.69,0.0,0.01,0.06,0.28
-Domestic production activities deduction Ct 50KLT75K,0.42,0.29,0.33,0.31,0.72,0.0,0.03,0.12,0.28
-Self-employed (Keogh) retirement plans Amt LT25K,0.42,0.34,0.33,0.31,0.79,0.0,0.0,0.05,0.28
-Crime_Rate_Arson_Rate,0.42,0.52,0.28,0.31,0.64,0.01,0.0,0.02,0.28
-Residential energy tax credit Ct LT25K,0.42,0.39,0.33,0.3,0.77,0.0,0.0,0.03,0.28
-advance_dgr_pct,0.42,0.45,0.37,0.39,0.21,0.04,0.14,0.19,0.28
-EOGGr3_CACR_EDS,0.42,0.41,0.27,0.26,0.54,0.0,0.13,0.23,0.28
-Pct of Farm Returns,0.42,0.41,0.33,0.37,0.64,0.02,0.01,0.06,0.28
-EOG/EOCSubjects_CACR_SWD,0.42,0.32,0.33,0.31,0.47,0.02,0.12,0.25,0.28
-EOGGr4_CACR_AIG,0.42,0.48,0.35,0.35,0.43,0.0,0.09,0.16,0.28
-SBE District_Northeast,0.42,0.45,0.28,0.29,0.65,0.0,0.03,0.06,0.27
-EOGReadingGr3_CACR_LEP,0.42,0.49,0.33,0.31,0.58,0.0,0.01,0.03,0.27
-SBE District_Western,0.42,0.44,0.33,0.33,0.63,0.0,0.01,0.03,0.27
-Math SPG Grade_C,0.42,0.46,0.34,0.35,0.53,0.0,0.02,0.06,0.27
-EOCMathI_CACR_Male,0.42,0.48,0.34,0.34,0.51,0.0,0.0,0.09,0.27
-Earned income credit Amt 50KLT75K,0.42,0.24,0.33,0.28,0.79,0.0,0.0,0.08,0.27
-EOGGr3_CACR_All,0.42,0.44,0.33,0.31,0.24,0.01,0.15,0.29,0.27
-SBE District_Piedmont-Triad,0.42,0.41,0.31,0.31,0.65,0.0,0.01,0.02,0.27
-(VITA) prepared returns Ct 25KLT50K,0.42,0.19,0.33,0.31,0.79,0.01,0.01,0.09,0.27
-Other non-limited misc deduction Amt 75KLT100K,0.42,0.3,0.27,0.28,0.78,0.0,0.01,0.11,0.27
-Reading SPG Grade_B,0.42,0.44,0.33,0.31,0.27,0.0,0.1,0.26,0.27
-EOGReadingGr4_CACR_SWD,0.42,0.49,0.33,0.31,0.49,0.0,0.05,0.11,0.27
-EOCMathI_CACR_AIG,0.42,0.48,0.37,0.35,0.47,0.0,0.0,0.06,0.27
-avg_age_media_collection,0.42,0.47,0.33,0.31,0.57,0.04,0.0,0.04,0.27
-EOGMathGr3-8_CACR_AIG,0.42,0.39,0.31,0.29,0.39,0.01,0.07,0.26,0.27
-Domestic production activities deduction Amt 25KLT50K,0.42,0.32,0.32,0.31,0.74,0.0,0.0,0.06,0.27
-EOG/EOCSubjects_GLP_LEP,0.42,0.41,0.33,0.31,0.53,0.01,0.03,0.12,0.27
-Other non-limited misc deduction Amt 50KLT75K,0.42,0.33,0.33,0.31,0.69,0.0,0.02,0.06,0.27
-EOGGr4_CACR_SWD,0.42,0.47,0.33,0.37,0.36,0.01,0.08,0.15,0.27
-lea_salary_expense_pct,0.17,0.34,0.18,0.12,1.0,0.02,0.17,0.16,0.27
-Alternative minimum tax Amt 25KLT50K,0.42,0.38,0.3,0.26,0.71,0.0,0.0,0.06,0.27
-Tot Add Medicare tax Amt 25KLT50K,0.42,0.35,0.33,0.31,0.7,0.0,0.0,0.02,0.27
-category_cd_H,0.0,0.43,0.33,0.31,0.98,0.0,0.0,0.08,0.27
-Add child tax credit Amt 75KLT100K,0.42,0.31,0.33,0.31,0.73,0.0,0.02,0.07,0.27
-EOGGr4_GLP_LEP,0.42,0.49,0.33,0.31,0.59,0.0,0.0,0.03,0.27
-EOCSubjects_GLP_LEP,0.42,0.47,0.33,0.31,0.53,0.0,0.0,0.13,0.27
-lea_ap_participation_pct,0.42,0.54,0.39,0.4,0.28,0.01,0.02,0.1,0.27
-EOGReadingGr5_CACR_EDS,0.42,0.49,0.33,0.31,0.3,0.01,0.08,0.19,0.27
-lea_short_susp_per_c_num,0.42,0.35,0.33,0.26,0.44,0.04,0.08,0.23,0.27
-EOGScienceGr5&8_CACR_Hispanic,0.42,0.35,0.33,0.28,0.56,0.01,0.0,0.15,0.26
-Crime_Rate_Burglary_Rate,0.42,0.45,0.23,0.2,0.69,0.01,0.02,0.09,0.26
-lea_tchyrs_11plus_pct,0.42,0.4,0.33,0.31,0.29,0.02,0.19,0.15,0.26
-digital_media_pct,0.42,0.47,0.35,0.39,0.41,0.02,0.0,0.04,0.26
-Crime_Rate_Violent_Rate,0.42,0.18,0.31,0.2,0.8,0.01,0.04,0.11,0.26
-Reading SPG Grade_D,0.42,0.44,0.33,0.32,0.27,0.0,0.11,0.19,0.26
-long_susp_per_c_num,0.42,0.41,0.33,0.56,0.29,0.01,0.03,0.06,0.26
-EOGGr4_CACR_White,0.42,0.21,0.23,0.15,0.68,0.0,0.13,0.26,0.26
-lea_wap_per_classroom,0.42,0.36,0.33,0.26,0.64,0.02,0.01,0.03,0.26
-EOGReadingGr5_CACR_SWD,0.42,0.5,0.34,0.37,0.4,0.0,0.02,0.05,0.26
-03_Size,0.42,0.33,0.25,0.2,0.67,0.01,0.06,0.14,0.26
-lea_advance_dgr_pct,0.42,0.44,0.33,0.31,0.32,0.03,0.1,0.17,0.26
-EOGMathGr3_CACR_EDS,0.42,0.41,0.33,0.31,0.27,0.01,0.11,0.18,0.26
-lea_nbpts_num,0.42,0.38,0.26,0.23,0.42,0.01,0.1,0.24,0.26
-EOCSubjects_CACR_TwoorMoreRaces,0.42,0.46,0.36,0.36,0.31,0.0,0.0,0.16,0.26
-EOCSubjects_CACR_SWD,0.42,0.47,0.33,0.31,0.47,0.0,0.0,0.08,0.26
-Number of farm returns 75KLT100K,0.41,0.17,0.24,0.19,0.92,0.01,0.04,0.13,0.26
-EOGMathGr3_CACR_LEP,0.42,0.51,0.33,0.31,0.48,0.0,0.01,0.04,0.26
-Alternative minimum tax Amt 75KLT100K,0.42,0.27,0.31,0.31,0.7,0.0,0.0,0.03,0.26
-lea_ib_pct_4_or_above,0.42,0.55,0.34,0.34,0.36,0.0,0.0,0.05,0.26
-Alternative minimum tax Ct 50KLT75K,0.42,0.34,0.31,0.28,0.72,0.0,0.0,0.04,0.26
-SciGr5&8_pTarget_PctMet,0.42,0.33,0.32,0.29,0.58,0.0,0.01,0.09,0.26
-Not Demostrated_TCHR_Standard 1_Pct,0.42,0.48,0.43,0.6,0.16,0.0,0.0,0.02,0.26
-EOGMathGr3_CACR_Black,0.42,0.34,0.33,0.3,0.57,0.0,0.0,0.09,0.26
-Attrition_Reason_InitiatedbyLEA,0.42,0.15,0.33,0.3,0.83,0.0,0.0,0.05,0.26
-Math I_Size,0.42,0.46,0.33,0.34,0.4,0.01,0.02,0.11,0.26
-EOGReadingGr4_CACR_AmericanIndian,0.42,0.5,0.33,0.31,0.55,0.0,0.0,0.01,0.26
-Avg Personal Property Taxes,0.42,0.46,0.33,0.31,0.33,0.01,0.06,0.15,0.26
-EOGMathGr3-8_CACR_White,0.42,0.46,0.33,0.31,0.19,0.01,0.12,0.26,0.26
-Net investment income tax Amt 100KLT200K,0.42,0.1,0.33,0.29,0.83,0.0,0.0,0.04,0.25
-avg_daily_attend_pct,0.42,0.45,0.33,0.31,0.14,0.04,0.12,0.19,0.25
-Grad_project_status_Y,0.42,0.46,0.36,0.35,0.38,0.0,0.02,0.04,0.25
-Math SPG Grade_B,0.42,0.41,0.31,0.31,0.21,0.0,0.12,0.23,0.25
-EVAAS Growth Score,0.42,0.36,0.32,0.27,0.39,0.03,0.04,0.13,0.25
-Number of volunteer prepared returns Tot 50KLT75K,0.42,0.55,0.33,0.31,0.32,0.0,0.0,0.05,0.25
-05_Size,0.42,0.38,0.33,0.29,0.38,0.01,0.04,0.12,0.25
-EOGGr4_CACR_LEP,0.42,0.35,0.33,0.31,0.59,0.0,0.0,0.02,0.25
-EOGSubjects_CACR_Asian,0.42,0.37,0.33,0.31,0.45,0.0,0.02,0.08,0.25
-lea_crime_per_c_num,0.42,0.37,0.33,0.15,0.55,0.02,0.02,0.13,0.25
-EOGGr5_CACR_SWD,0.42,0.36,0.29,0.22,0.44,0.01,0.08,0.16,0.25
-EOGMathGr3-8_CACR_Black,0.42,0.35,0.32,0.25,0.49,0.01,0.01,0.17,0.25
-EOGMathGr3-8_CACR_LEP,0.42,0.37,0.33,0.31,0.43,0.01,0.02,0.08,0.25
-EOGMathGr4_CACR_AmericanIndian,0.42,0.35,0.33,0.31,0.55,0.0,0.0,0.01,0.25
-EOGMathGr4_CACR_Hispanic,0.42,0.45,0.33,0.31,0.37,0.01,0.02,0.07,0.25
-EOCSubjects_CACR_Hispanic,0.42,0.3,0.28,0.2,0.66,0.01,0.0,0.11,0.25
-EOGMathGr5_CACR_LEP,0.42,0.48,0.33,0.33,0.45,0.0,0.0,0.02,0.25
-EOGMathGr5_CACR_TwoorMoreRaces,0.42,0.46,0.34,0.36,0.38,0.0,0.0,0.01,0.25
-EOGReadingGr3-8_CACR_Black,0.42,0.4,0.33,0.31,0.3,0.01,0.0,0.22,0.25
-EOCSubjects_CACR_AIG,0.42,0.38,0.33,0.31,0.47,0.0,0.0,0.06,0.25
-EOGReadingGr3-8_CACR_SWD,0.42,0.35,0.33,0.31,0.39,0.01,0.08,0.13,0.25
-EOGGr4_CACR_Black,0.42,0.46,0.33,0.31,0.34,0.01,0.01,0.1,0.25
-EOGReadingGr3-8_GLP_LEP,0.42,0.45,0.32,0.3,0.43,0.01,0.02,0.08,0.25
-EOGReadingGr3-8_CACR_TwoorMoreRaces,0.42,0.45,0.33,0.33,0.31,0.01,0.01,0.15,0.25
-EOGScienceGr5&8_CACR_AIG,0.42,0.33,0.29,0.27,0.51,0.0,0.05,0.15,0.25
-Domestic production activities deduction Amt LT25K,0.42,0.4,0.33,0.31,0.46,0.0,0.01,0.04,0.25
-EOGReadingGr3_GLP_LEP,0.42,0.29,0.3,0.29,0.58,0.0,0.01,0.03,0.24
-EOGMathGr5_CACR_AIG,0.42,0.46,0.33,0.31,0.14,0.0,0.09,0.21,0.24
-EOGScienceGr5_CACR_SWD,0.42,0.45,0.33,0.31,0.26,0.0,0.03,0.08,0.24
-Partnership/S-corp net income (less loss) Amt LT25K,0.42,0.16,0.29,0.27,0.63,0.01,0.01,0.09,0.24
-EOGMathGr3-8_CACR_AmericanIndian,0.42,0.48,0.33,0.31,0.35,0.0,0.0,0.02,0.24
-EOGGr3_CACR_Hispanic,0.42,0.45,0.33,0.31,0.27,0.0,0.04,0.11,0.24
-EOGScienceGr5_CACR_LEP,0.42,0.37,0.33,0.3,0.45,0.0,0.0,0.02,0.24
-EOGGr5_CACR_AIG,0.42,0.4,0.31,0.29,0.23,0.0,0.08,0.22,0.24
-EVAAS Growth Status_Met,0.42,0.45,0.34,0.33,0.39,0.0,0.0,0.01,0.24
-EOGScienceGr5_CACR_Black,0.42,0.31,0.33,0.26,0.52,0.0,0.0,0.1,0.24
-EOGMathGr4_CACR_Black,0.42,0.41,0.33,0.31,0.34,0.0,0.0,0.1,0.24
-crime_per_c_num,0.42,0.41,0.33,0.31,0.1,0.04,0.0,0.27,0.24
-EOG/EOCSubjects_CACR_AmericanIndian,0.42,0.45,0.33,0.32,0.36,0.0,0.0,0.04,0.24
-Deductible points Ct LT25K,0.42,0.24,0.19,0.12,0.86,0.0,0.01,0.07,0.24
-EOGMathGr5_CACR_EDS,0.42,0.4,0.33,0.35,0.23,0.01,0.07,0.13,0.24
-(TCE) prepared returns Ct 75KLT100K,0.42,0.39,0.33,0.31,0.36,0.0,0.02,0.07,0.24
-EOGScienceGr5&8_CACR_SWD,0.42,0.41,0.33,0.31,0.26,0.01,0.02,0.18,0.24
-Not Demostrated_TCHR_Standard 4_Pct,0.42,0.41,0.33,0.31,0.44,0.0,0.0,0.02,0.24
-EOGReadingGr5_GLP_SWD,0.42,0.4,0.33,0.31,0.4,0.0,0.02,0.07,0.24
-EOGSubjects_CACR_AIG,0.42,0.0,0.26,0.11,0.81,0.01,0.05,0.3,0.24
-EOGReadingGr5_GLP_AmericanIndian,0.42,0.49,0.33,0.31,0.35,0.0,0.0,0.01,0.24
-EOGReadingGr4_GLP_SWD,0.42,0.33,0.27,0.24,0.5,0.0,0.06,0.13,0.24
-EOGReadingGr4_CACR_Hispanic,0.42,0.4,0.33,0.31,0.37,0.0,0.02,0.06,0.24
-Reading SPG Grade_C,0.42,0.46,0.33,0.32,0.28,0.0,0.04,0.09,0.24
-EOGReadingGr4_CACR_EDS,0.42,0.43,0.33,0.31,0.12,0.01,0.09,0.23,0.24
-EOGReadingGr3_CACR_EDS,0.42,0.39,0.33,0.29,0.18,0.01,0.12,0.21,0.24
-lea_tchyrs_4thru10_pct,0.42,0.41,0.33,0.31,0.29,0.04,0.07,0.08,0.24
-SRC_devices_sent_home_Yes,0.42,0.38,0.29,0.27,0.41,0.0,0.01,0.03,0.23
-SPG Grade_C,0.42,0.3,0.29,0.26,0.53,0.0,0.0,0.05,0.23
-SBE District_Northwest,0.42,0.41,0.33,0.34,0.18,0.0,0.05,0.08,0.23
-(TCE) prepared returns Ct 100KLT200K,0.42,0.34,0.33,0.3,0.42,0.0,0.0,0.01,0.23
-EOGMathGr3_GLP_SWD,0.42,0.39,0.27,0.25,0.3,0.0,0.06,0.13,0.23
-books_per_student,0.42,0.44,0.33,0.31,0.29,0.04,0.0,0.03,0.23
-EOGMathGr4_CACR_SWD,0.42,0.39,0.33,0.3,0.25,0.0,0.06,0.11,0.23
-Avg Tot Income,0.42,0.35,0.33,0.31,0.26,0.02,0.03,0.1,0.23
-stud_internet_comp_num,0.42,0.45,0.33,0.31,0.2,0.04,0.01,0.06,0.23
-EOCMathI_CACR_Female,0.42,0.22,0.19,0.16,0.8,0.0,0.0,0.07,0.23
-EOCMathI_CACR_TwoorMoreRaces,0.42,0.39,0.33,0.28,0.3,0.0,0.0,0.14,0.23
-EOCMathI_CACR_White,0.42,0.44,0.33,0.31,0.32,0.0,0.0,0.04,0.23
-EOG/EOCSubjects_CACR_TwoorMoreRaces,0.42,0.42,0.33,0.31,0.15,0.02,0.04,0.13,0.23
-EOGGr3_CACR_Asian,0.42,0.38,0.31,0.28,0.34,0.0,0.02,0.09,0.23
-EOGGr3_CACR_Black,0.42,0.45,0.33,0.31,0.21,0.0,0.01,0.09,0.23
-EOGGr4_CACR_EDS,0.42,0.43,0.33,0.31,0.02,0.0,0.1,0.24,0.23
-EOGGr5_CACR_Hispanic,0.42,0.38,0.31,0.27,0.33,0.01,0.05,0.08,0.23
-Number of refund anticipation loan returns 50KLT75K,0.42,0.47,0.34,0.38,0.17,0.0,0.0,0.05,0.23
-EOGMathGr4_CACR_Asian,0.42,0.46,0.33,0.33,0.25,0.0,0.01,0.03,0.23
-EOGMathGr5_CACR_SWD,0.42,0.4,0.33,0.31,0.26,0.0,0.03,0.07,0.23
-EOGReadingGr3-8_GLP_SWD,0.42,0.44,0.33,0.31,0.06,0.01,0.09,0.16,0.23
-lea_books_per_student,0.42,0.28,0.33,0.17,0.61,0.02,0.01,0.03,0.23
-EOGReadingGr5_CACR_AmericanIndian,0.42,0.44,0.33,0.31,0.31,0.0,0.0,0.01,0.23
-EOGScienceGr5&8_CACR_AmericanIndian,0.42,0.38,0.33,0.3,0.35,0.0,0.0,0.02,0.23
-EOGSubjects_CACR_AmericanIndian,0.42,0.4,0.33,0.31,0.35,0.0,0.0,0.04,0.23
-EOGSubjects_CACR_Black,0.42,0.37,0.33,0.31,0.2,0.01,0.01,0.17,0.23
-"calendar_type_txt_Special Education, Traditional Calendar",0.42,0.46,0.33,0.37,0.28,0.0,0.0,0.01,0.23
-Math SPG Grade_F,0.42,0.4,0.31,0.3,0.22,0.0,0.08,0.14,0.23
-pct_GCE_ALL,0.42,0.37,0.22,0.17,0.41,0.01,0.02,0.11,0.22
-lea_avg_student_num,0.42,0.41,0.33,0.31,0.18,0.02,0.0,0.07,0.22
-_1_to_1_access_Yes,0.42,0.45,0.33,0.32,0.17,0.0,0.01,0.03,0.22
-calendar_type_txt_Hospital School,0.42,0.45,0.33,0.31,0.22,0.0,0.0,0.01,0.22
-wap_num,0.42,0.42,0.33,0.31,0.02,0.04,0.01,0.19,0.22
-TotalTargets_pTarget_PctMet,0.42,0.26,0.17,0.09,0.73,0.0,0.01,0.11,0.22
-wap_per_classroom,0.42,0.44,0.33,0.31,0.19,0.05,0.02,0.04,0.22
-State Gap Compared_Y,0.42,0.41,0.33,0.31,0.2,0.0,0.02,0.06,0.22
-EOCSubjects_CACR_Asian,0.42,0.41,0.33,0.31,0.24,0.0,0.0,0.08,0.22
-EOG/EOCSubjects_CACR_Hispanic,0.42,0.43,0.33,0.31,0.08,0.02,0.09,0.11,0.22
-EOGGr3_CACR_AmericanIndian,0.42,0.38,0.33,0.31,0.34,0.0,0.0,0.02,0.22
-EOGReadingGr5_CACR_Hispanic,0.42,0.4,0.33,0.31,0.19,0.01,0.01,0.06,0.22
-EOGReadingGr5_CACR_Black,0.42,0.41,0.33,0.31,0.23,0.0,0.0,0.1,0.22
-EOGGr4_CACR_Asian,0.42,0.45,0.33,0.31,0.18,0.0,0.02,0.05,0.22
-EOGGr4_CACR_Hispanic,0.42,0.43,0.33,0.31,0.12,0.01,0.04,0.08,0.22
-EOGGr4_CACR_TwoorMoreRaces,0.42,0.39,0.3,0.27,0.38,0.0,0.01,0.03,0.22
-EOGGr5_CACR_LEP,0.42,0.4,0.33,0.29,0.24,0.0,0.01,0.04,0.22
-EOGReadingGr3-8_CACR_LEP,0.42,0.44,0.33,0.31,0.2,0.01,0.02,0.04,0.22
-EOGReadingGr3-8_CACR_Hispanic,0.42,0.44,0.33,0.31,0.14,0.01,0.03,0.1,0.22
-EOGMathGr3-8_CACR_Hispanic,0.42,0.41,0.33,0.31,0.13,0.01,0.05,0.13,0.22
-EOGMathGr5_CACR_Asian,0.42,0.39,0.33,0.31,0.25,0.0,0.01,0.06,0.22
-EOGMathGr5_CACR_AmericanIndian,0.42,0.4,0.33,0.31,0.31,0.0,0.0,0.02,0.22
-EOGMathGr3_CACR_AIG,0.42,0.42,0.33,0.31,0.15,0.0,0.04,0.12,0.22
-EOGMathGr3_CACR_AmericanIndian,0.42,0.44,0.33,0.31,0.23,0.0,0.0,0.02,0.22
-EOGMathGr3_CACR_Hispanic,0.42,0.4,0.33,0.3,0.21,0.01,0.01,0.07,0.22
-EOGScienceGr5&8_CACR_Asian,0.42,0.46,0.33,0.31,0.24,0.0,0.01,0.03,0.22
-Investment interest paid Amt LT25K,0.42,0.27,0.12,0.09,0.82,0.0,0.01,0.05,0.22
-EOCMathI_GLP_LEP,0.42,0.4,0.33,0.31,0.22,0.0,0.0,0.1,0.22
-EOCMathI_CACR_SWD,0.42,0.45,0.33,0.31,0.15,0.0,0.0,0.11,0.22
-SPG Grade_F,0.42,0.44,0.33,0.35,0.04,0.0,0.07,0.13,0.22
-EOGSubjects_CACR_TwoorMoreRaces,0.42,0.42,0.33,0.31,0.04,0.01,0.04,0.15,0.22
-00_Size,0.42,0.41,0.3,0.29,0.16,0.01,0.06,0.15,0.22
-EVAAS Growth Status_NotMet,0.42,0.39,0.33,0.3,0.22,0.0,0.02,0.06,0.22
-Reading SPG Grade_F,0.42,0.41,0.33,0.31,0.12,0.0,0.06,0.13,0.22
-Exceeds Expected Growth_TCHR_Student Growth_Pct,0.42,0.43,0.3,0.29,0.05,0.04,0.07,0.13,0.22
-EOCMathI_CACR_Black,0.42,0.43,0.33,0.31,0.07,0.01,0.02,0.17,0.22
-Pct of Elderly Returns,0.42,0.24,0.22,0.12,0.71,0.01,0.01,0.06,0.22
-Meets Expected Growth_TCHR_Student Growth_Pct,0.42,0.44,0.33,0.31,0.14,0.04,0.02,0.07,0.22
-Byod_Yes,0.42,0.44,0.33,0.32,0.17,0.0,0.01,0.03,0.22
-Crime_Rate_Index_Rate,0.42,0.09,0.18,0.13,0.75,0.01,0.01,0.06,0.21
-02_Size,0.42,0.41,0.29,0.29,0.08,0.01,0.06,0.14,0.21
-EOCSubjects_CACR_AmericanIndian,0.42,0.44,0.33,0.31,0.11,0.0,0.0,0.04,0.21
-EOGMathGr3-8_CACR_Asian,0.42,0.42,0.33,0.31,0.13,0.0,0.02,0.06,0.21
-EOGGr5_CACR_TwoorMoreRaces,0.42,0.41,0.33,0.31,0.16,0.0,0.02,0.06,0.21
-EOCSubjects_CACR_Black,0.42,0.41,0.33,0.31,0.03,0.01,0.01,0.14,0.21
-EOGGr3_CACR_LEP,0.42,0.41,0.33,0.31,0.1,0.0,0.02,0.07,0.21
-EOCMathI_CACR_LEP,0.42,0.44,0.33,0.31,0.11,0.0,0.0,0.08,0.21
-EOGGr3_CACR_AIG,0.42,0.43,0.33,0.32,0.01,0.0,0.05,0.1,0.21
-EOGMathGr3_CACR_Asian,0.42,0.41,0.33,0.31,0.13,0.0,0.01,0.05,0.21
-EOGMathGr4_CACR_LEP,0.42,0.44,0.33,0.31,0.16,0.0,0.0,0.04,0.21
-EOGMathGr3_CACR_SWD,0.42,0.42,0.33,0.31,0.05,0.0,0.05,0.13,0.21
-EOGReadingGr3_CACR_SWD,0.42,0.43,0.33,0.3,0.07,0.0,0.05,0.1,0.21
-SPG Grade_A+NG,0.42,0.43,0.33,0.31,0.11,0.0,0.01,0.04,0.21
-NC Math 1 Score,0.42,0.42,0.33,0.31,0.09,0.0,0.0,0.09,0.21
-EOGScienceGr5_GLP_LEP,0.42,0.44,0.33,0.31,0.13,0.0,0.0,0.02,0.21
-EOGReadingGr4_CACR_Black,0.42,0.41,0.33,0.3,0.12,0.0,0.0,0.09,0.21
-expelled_per_c_num,0.42,0.41,0.33,0.31,0.19,0.0,0.0,0.01,0.21
-SPG Grade_I,0.42,0.3,0.19,0.16,0.6,0.0,0.0,0.01,0.21
-EOGScienceGr5&8_GLP_LEP,0.42,0.41,0.33,0.31,0.1,0.0,0.0,0.06,0.2
-EOGReadingGr5_GLP_LEP,0.42,0.42,0.33,0.31,0.09,0.0,0.0,0.01,0.2
-EOCMathI_CACR_Asian,0.42,0.42,0.33,0.31,0.06,0.0,0.0,0.07,0.2
-EOGReadingGr3-8_CACR_AmericanIndian,0.42,0.41,0.33,0.31,0.1,0.0,0.0,0.01,0.2
-EOCMathI_CACR_AmericanIndian,0.42,0.41,0.33,0.31,0.11,0.0,0.0,0.02,0.2
-EOCMathI_GLP_SWD,0.42,0.41,0.33,0.31,0.0,0.0,0.0,0.13,0.2
-EOGGr5_CACR_Black,0.42,0.43,0.33,0.31,0.03,0.0,0.01,0.1,0.2
-EOGScienceGr5&8_CACR_TwoorMoreRaces,0.42,0.42,0.33,0.31,0.09,0.0,0.0,0.07,0.2
-EOGScienceGr5&8_CACR_LEP,0.42,0.43,0.33,0.31,0.09,0.0,0.0,0.06,0.2
-EOGMathGr3_CACR_TwoorMoreRaces,0.42,0.43,0.33,0.31,0.08,0.0,0.0,0.02,0.2
-EOGMathGr4_CACR_TwoorMoreRaces,0.42,0.43,0.33,0.31,0.07,0.0,0.0,0.01,0.2
-Home mortgage interest paid from personal seller Amt LT25K,0.42,0.22,0.33,0.16,0.41,0.0,0.01,0.09,0.2
-EOGReadingGr4_GLP_LEP,0.42,0.41,0.33,0.31,0.15,0.0,0.0,0.02,0.2
-EOGGr3_CACR_TwoorMoreRaces,0.42,0.42,0.33,0.31,0.04,0.0,0.01,0.03,0.2
-lea_expelled_per_c_num,0.42,0.37,0.16,0.11,0.46,0.0,0.01,0.03,0.2
-lea_emer_prov_teach_pct,0.42,0.41,0.33,0.31,0.05,0.02,0.0,0.03,0.2
-EOGReadingGr3_CACR_Hispanic,0.42,0.42,0.33,0.31,0.06,0.01,0.02,0.07,0.2
-EOGGr5_CACR_Asian,0.42,0.43,0.33,0.31,0.01,0.0,0.02,0.06,0.2
-EOCMathI_CACR_EDS,0.42,0.43,0.31,0.31,0.01,0.01,0.0,0.1,0.2
-Not Demostrated_TCHR_Standard 2_Pct,0.42,0.42,0.33,0.31,0.02,0.0,0.0,0.03,0.19
-EOGReadingGr3_CACR_AmericanIndian,0.42,0.43,0.33,0.31,0.03,0.0,0.0,0.01,0.19
-"calendar_type_txt_Vocational Education, Traditional Calendar",0.42,0.42,0.33,0.31,0.03,0.0,0.0,0.02,0.19
-EOGScienceGr5_CACR_AmericanIndian,0.42,0.4,0.33,0.31,0.06,0.0,0.0,0.01,0.19
-EOGReadingGr5_CACR_LEP,0.42,0.43,0.33,0.31,0.0,0.0,0.0,0.02,0.19
-EOGGr4_CACR_AmericanIndian,0.42,0.42,0.33,0.31,0.02,0.0,0.0,0.02,0.19
-EOGGr5_CACR_AmericanIndian,0.42,0.43,0.33,0.31,0.04,0.0,0.0,0.02,0.19
-EOGReadingGr4_CACR_LEP,0.42,0.42,0.33,0.31,0.01,0.0,0.0,0.01,0.19
-Avg Dependents Per Ret,0.42,0.08,0.17,0.0,0.46,0.01,0.04,0.07,0.16
-Pct of Anticipation Loans,0.42,0.35,0.0,0.0,0.37,0.03,0.01,0.04,0.15
-Domestic production activities deduction Amt 75KLT100K,0.42,0.17,0.13,0.09,0.05,0.01,0.01,0.08,0.12
-Year,0.39,0.43,0.33,0.31,0.93,0.0,,0.0,
+tchyrs_0thru3_pct,0.27,1.0,1.0,1.0,0.91,1.0,1.0,1.0,0.9
+lateral_teach_pct,0.27,0.39,0.7,0.63,0.81,0.07,0.74,0.63,0.53
+Proficient_TCHR_Standard 1_Pct,0.27,0.53,0.52,0.54,0.87,0.11,0.48,0.49,0.48
+tchyrs_11plus_pct,0.27,0.77,0.3,0.31,0.84,0.06,0.45,0.52,0.44
+flicensed_teach_pct,0.27,0.23,0.33,0.22,0.84,0.21,0.66,0.69,0.43
+Developing_TCHR_Standard 4_Pct,0.27,0.48,0.6,0.6,0.65,0.03,0.32,0.31,0.41
+st_avg_student_num,1.0,0.43,0.33,0.31,0.96,0.0,0.01,0.11,0.39
+Crime_Rate_Murder_Rate,0.27,0.63,0.55,0.63,0.75,0.01,0.15,0.14,0.39
+Attrition_Reason_OtherReasonsPerct,0.27,0.48,0.52,0.48,0.9,0.07,0.16,0.24,0.39
+EOG/EOCSubjects_CACR_AIG,0.27,0.69,0.38,0.5,0.79,0.02,0.08,0.3,0.38
+Proficient_TCHR_Standard 2_Pct,0.27,0.45,0.33,0.31,0.87,0.03,0.33,0.41,0.38
+lea_services_expense_pct,0.22,0.55,0.41,0.43,1.0,0.03,0.18,0.17,0.37
+lea_tchyrs_0thru3_pct,0.27,0.45,0.47,0.46,0.33,0.09,0.48,0.34,0.36
+Accomplished_TCHR_Standard 3_Pct,0.27,0.4,0.33,0.31,0.89,0.03,0.29,0.32,0.36
+Proficient_TCHR_Standard 3_Pct,0.27,0.4,0.33,0.31,0.89,0.02,0.28,0.38,0.36
+Accomplished_TCHR_Standard 2_Pct,0.27,0.48,0.36,0.37,0.88,0.03,0.26,0.26,0.36
+Accomplished_TCHR_Standard 4_Pct,0.27,0.41,0.33,0.31,0.61,0.04,0.4,0.41,0.35
+Accomplished_TCHR_Standard 5_Pct,0.27,0.44,0.33,0.31,0.88,0.02,0.25,0.3,0.35
+Proficient_TCHR_Standard 5_Pct,0.27,0.44,0.33,0.31,0.89,0.02,0.26,0.28,0.35
+Developing_TCHR_Standard 2_Pct,0.27,0.47,0.39,0.39,0.76,0.01,0.2,0.29,0.35
+Health care individual responsibility payment Amt GE200K,0.27,0.92,0.33,0.44,0.82,0.0,0.0,0.04,0.35
+Proficient_TCHR_Standard 4_Pct,0.27,0.38,0.33,0.3,0.61,0.04,0.41,0.46,0.35
+EOGGr3_CACR_White,0.27,0.55,0.35,0.4,0.78,0.01,0.13,0.23,0.34
+EOG/EOCSubjects_CACR_All,0.27,0.36,0.33,0.31,0.53,0.03,0.32,0.53,0.34
+MathGr3-8_pTarget_PctMet,0.27,0.72,0.41,0.48,0.78,0.0,0.01,0.08,0.34
+lea_federal_perpupil_num,0.33,0.43,0.33,0.31,1.0,0.02,0.14,0.13,0.34
+lea_state_perpupil_num,0.41,0.47,0.33,0.31,1.0,0.01,0.05,0.11,0.34
+EOG/EOCSubjects_CACR_White,0.27,0.52,0.44,0.44,0.62,0.04,0.16,0.24,0.34
+Does Not Meet Expected Growth_TCHR_Student Growth_Pct,0.27,0.5,0.45,0.45,0.55,0.04,0.16,0.2,0.33
+short_susp_per_c_num,0.27,0.48,0.33,0.31,0.44,0.19,0.16,0.43,0.33
+Number of farm returns 100KLT200K,0.33,0.55,0.33,0.31,0.93,0.01,0.04,0.12,0.33
+EOGMathGr4_CACR_White,0.27,0.53,0.37,0.39,0.68,0.0,0.14,0.27,0.33
+EOGGr5_CACR_White,0.27,0.58,0.42,0.43,0.66,0.0,0.1,0.21,0.33
+Attrition_Reason_OtherReasons,0.27,0.59,0.33,0.37,0.86,0.01,0.0,0.14,0.32
+st_emer_prov_teach_pct,0.41,0.43,0.35,0.34,0.96,0.0,0.0,0.07,0.32
+Number of farm returns 50KLT75K,0.3,0.54,0.33,0.31,0.93,0.01,0.02,0.08,0.32
+Developing_TCHR_Standard 3_Pct,0.27,0.42,0.33,0.31,0.87,0.01,0.15,0.23,0.32
+EOGMathGr4_CACR_EDS,0.27,0.52,0.42,0.43,0.65,0.01,0.08,0.2,0.32
+category_cd_E,0.43,0.42,0.33,0.31,0.95,0.0,0.04,0.09,0.32
+school_type_txt_Regular School,0.36,0.49,0.31,0.31,0.99,0.0,0.02,0.04,0.32
+SPG Score,0.27,0.33,0.29,0.27,0.62,0.02,0.22,0.51,0.32
+Science Score,0.27,0.59,0.33,0.38,0.62,0.01,0.06,0.27,0.32
+Distinguished_TCHR_Standard 5_Pct,0.27,0.49,0.33,0.38,0.88,0.02,0.06,0.14,0.32
+tchyrs_4thru10_pct,0.27,0.68,0.33,0.35,0.84,0.05,0.02,0.03,0.32
+Number of farm returns LT25K,0.31,0.46,0.33,0.31,0.92,0.02,0.08,0.13,0.32
+Accomplished_TCHR_Standard 1_Pct,0.27,0.34,0.25,0.25,0.6,0.07,0.38,0.38,0.32
+st_expelled_per_c_num,0.49,0.44,0.33,0.31,0.96,0.0,0.02,0.05,0.32
+Developing_TCHR_Standard 5_Pct,0.27,0.41,0.33,0.31,0.87,0.01,0.13,0.23,0.32
+EOGGr3_CACR_SWD,0.27,0.51,0.43,0.42,0.59,0.01,0.07,0.16,0.31
+Number of farm returns 25KLT50K,0.31,0.5,0.33,0.31,0.92,0.01,0.04,0.07,0.31
+st_crime_per_c_num,0.27,0.44,0.33,0.34,0.94,0.0,0.05,0.12,0.31
+st_long_susp_per_c_num,0.27,0.44,0.33,0.31,0.97,0.0,0.04,0.11,0.31
+st_tchyrs_0thru3_pct,0.35,0.44,0.33,0.31,0.97,0.0,0.0,0.04,0.31
+st_avg_daily_attend_pct,0.4,0.41,0.33,0.31,0.95,0.0,0.0,0.04,0.31
+Crime_Rate_Rape_Rate,0.27,0.52,0.45,0.45,0.7,0.02,0.01,0.07,0.31
+Excess earned income credit (refundable) Amt 50KLT75K,0.27,0.6,0.33,0.31,0.85,0.0,0.01,0.11,0.31
+Self-employed (Keogh) retirement plans Ct LT25K,0.27,0.62,0.34,0.36,0.83,0.0,0.0,0.05,0.31
+st_short_susp_per_c_num,0.23,0.45,0.33,0.32,0.94,0.0,0.07,0.12,0.31
+lea_local_perpupil_num,0.4,0.37,0.33,0.31,1.0,0.01,0.0,0.07,0.31
+Tuition and fees deduction Amt 75KLT100K,0.27,0.65,0.33,0.31,0.82,0.0,0.01,0.08,0.31
+(TCE) prepared returns Ct 25KLT50K,0.27,0.58,0.33,0.31,0.86,0.01,0.02,0.13,0.31
+(VITA) prepared returns Ct 100KLT200K,0.27,0.5,0.33,0.31,0.84,0.0,0.02,0.17,0.31
+lea_instruct_equip_exp_pct,0.25,0.49,0.34,0.36,0.99,0.01,0.0,0.03,0.31
+school_type_txt_Magnet School,0.3,0.46,0.33,0.31,0.98,0.0,0.0,0.03,0.3
+pct_eds,0.27,0.46,0.42,0.41,0.28,0.06,0.2,0.28,0.3
+EOGSubjects_CACR_SWD,0.27,0.64,0.33,0.37,0.49,0.01,0.11,0.22,0.3
+EOG/EOCSubjects_CACR_LEP,0.27,0.54,0.33,0.33,0.77,0.01,0.03,0.1,0.3
+EOCMathI_CACR_Hispanic,0.27,0.54,0.38,0.43,0.67,0.0,0.0,0.14,0.3
+st_flicensed_teach_pct,0.25,0.43,0.33,0.31,0.97,0.0,0.02,0.09,0.3
+Developing_TCHR_Standard 1_Pct,0.27,0.43,0.33,0.31,0.6,0.03,0.2,0.2,0.3
+Crime_Rate_Robbery_Rate,0.27,0.51,0.33,0.31,0.81,0.01,0.03,0.1,0.3
+lea_supplies_expense_pct,0.22,0.41,0.33,0.31,0.99,0.01,0.04,0.08,0.3
+Reading SPG Score,0.27,0.5,0.33,0.31,0.57,0.01,0.09,0.36,0.3
+Investment interest paid Amt 25KLT50K,0.27,0.64,0.33,0.31,0.72,0.0,0.02,0.08,0.3
+lea_sat_participation_pct,0.27,0.54,0.41,0.43,0.63,0.02,0.02,0.05,0.3
+"calendar_type_txt_Magnet School, Year-Round Calendar",0.29,0.45,0.33,0.33,0.96,0.0,0.01,0.04,0.3
+SBE District_Southwest,0.27,0.51,0.38,0.38,0.79,0.0,0.01,0.03,0.3
+Alternative minimum tax Ct 75KLT100K,0.27,0.64,0.33,0.31,0.8,0.0,0.0,0.03,0.3
+Attrition_Reason_InitiatedPerct,0.27,0.42,0.33,0.31,0.9,0.01,0.05,0.08,0.3
+Attrition_Reason_PersonalPerct,0.27,0.44,0.33,0.31,0.9,0.01,0.03,0.07,0.3
+EOG/EOCSubjects_CACR_Black,0.27,0.54,0.41,0.44,0.53,0.04,0.01,0.13,0.3
+category_cd_H,0.33,0.43,0.33,0.31,0.95,0.0,0.0,0.08,0.3
+lea_avg_daily_attend_pct,0.27,0.46,0.33,0.37,0.69,0.01,0.09,0.2,0.3
+Distinguished_TCHR_Standard 3_Pct,0.27,0.42,0.33,0.31,0.89,0.01,0.06,0.11,0.3
+category_cd_I,0.31,0.42,0.33,0.31,0.97,0.0,0.01,0.05,0.3
+category_cd_M,0.21,0.44,0.34,0.32,0.98,0.0,0.03,0.05,0.3
+Domestic production activities deduction Ct 75KLT100K,0.27,0.67,0.44,0.53,0.37,0.0,0.0,0.08,0.3
+EOGGr4_CACR_All,0.27,0.31,0.33,0.28,0.66,0.0,0.14,0.33,0.29
+lea_ap_pct_3_or_above,0.27,0.48,0.31,0.3,0.59,0.01,0.17,0.2,0.29
+lea_stud_internet_comp_num,0.27,0.5,0.33,0.34,0.8,0.02,0.0,0.04,0.29
+nbpts_num,0.27,0.47,0.33,0.32,0.39,0.02,0.12,0.38,0.29
+EOGMathGr3_CACR_White,0.27,0.28,0.24,0.2,0.78,0.0,0.17,0.35,0.29
+SBE District_Southeast,0.27,0.52,0.34,0.35,0.76,0.0,0.01,0.03,0.29
+EOGMathGr3-8_CACR_EDS,0.27,0.51,0.33,0.31,0.5,0.01,0.12,0.29,0.29
+lea_total_expense_num,0.09,0.43,0.33,0.31,1.0,0.01,0.06,0.08,0.29
+Number of farm returns All,0.12,0.48,0.33,0.31,0.93,0.01,0.06,0.11,0.29
+LEACode,0.27,0.43,0.33,0.32,0.91,0.01,0.0,0.03,0.29
+"calendar_type_txt_Magnet School, Traditional Calendar",0.25,0.46,0.29,0.29,0.99,0.0,0.0,0.03,0.29
+Pct of Anticipation Checks,0.27,0.42,0.33,0.31,0.68,0.01,0.13,0.18,0.29
+Distinguished_TCHR_Standard 2_Pct,0.27,0.37,0.3,0.23,0.88,0.02,0.09,0.18,0.29
+"calendar_type_txt_Regular School, Traditional Calendar",0.17,0.48,0.33,0.31,0.98,0.0,0.01,0.02,0.29
+Domestic production activities deduction Amt 50KLT75K,0.27,0.5,0.33,0.34,0.72,0.0,0.02,0.12,0.29
+Advance premium tax credit Amt GE200K,0.27,0.59,0.33,0.41,0.73,0.0,0.0,0.01,0.29
+"calendar_type_txt_Regular School, Year-Round Calendar",0.28,0.43,0.32,0.31,0.94,0.0,0.01,0.02,0.29
+Deductible points Amt LT25K,0.27,0.52,0.33,0.31,0.85,0.0,0.0,0.07,0.29
+04_Size,0.27,0.52,0.33,0.36,0.67,0.01,0.05,0.12,0.29
+unit_code,0.27,0.43,0.34,0.34,0.91,0.02,0.0,0.03,0.29
+4-10 Years_LEA_Exp_Pct_Prin,0.27,0.45,0.33,0.31,0.74,0.02,0.02,0.08,0.28
+10+ Years_LEA_Exp_Pct_Prin,0.27,0.47,0.33,0.31,0.73,0.02,0.02,0.07,0.28
+lea_long_susp_per_c_num,0.27,0.51,0.33,0.44,0.56,0.02,0.03,0.09,0.28
+SBE District_Sandhills,0.27,0.53,0.35,0.39,0.65,0.0,0.01,0.03,0.28
+EOGScienceGr5&8_CACR_EDS,0.27,0.52,0.33,0.31,0.58,0.02,0.05,0.19,0.28
+Attrition_Reason_BeyondControlPerct,0.27,0.37,0.28,0.23,0.9,0.02,0.07,0.11,0.28
+(VITA) prepared returns Ct 50KLT75K,0.27,0.44,0.33,0.31,0.82,0.01,0.0,0.07,0.28
+calendar_only_txt_Year-Round Calendar,0.2,0.44,0.33,0.31,0.98,0.0,0.0,0.01,0.28
+EOGGr5_CACR_All,0.27,0.33,0.33,0.31,0.58,0.0,0.12,0.28,0.28
+EOG/EOCSubjects_CACR_EDS,0.27,0.33,0.27,0.16,0.51,0.04,0.23,0.4,0.28
+SPG Grade_D,0.27,0.39,0.33,0.31,0.51,0.0,0.16,0.24,0.28
+Domestic production activities deduction Ct LT25K,0.27,0.5,0.32,0.31,0.75,0.0,0.01,0.04,0.28
+Number of farm returns GE200K,0.28,0.35,0.33,0.31,0.91,0.0,0.01,0.07,0.28
+Other non-limited misc deduction Amt LT25K,0.27,0.47,0.33,0.31,0.83,0.0,0.0,0.07,0.28
+Other non-limited misc deduction Ct 75KLT100K,0.27,0.49,0.33,0.31,0.68,0.0,0.01,0.11,0.28
+lea_wap_num,0.27,0.53,0.33,0.31,0.7,0.01,0.01,0.08,0.28
+esea_status_P,0.27,0.47,0.4,0.39,0.47,0.0,0.1,0.15,0.28
+EOGMathGr5_CACR_Hispanic,0.27,0.55,0.37,0.4,0.57,0.01,0.0,0.07,0.28
+Crime_Rate_MVT_Rate,0.27,0.54,0.33,0.31,0.74,0.01,0.0,0.01,0.28
+EOGReadingGr3-8_CACR_EDS,0.27,0.33,0.33,0.31,0.57,0.01,0.11,0.3,0.28
+Domestic production activities deduction Amt 100KLT200K,0.27,0.46,0.34,0.37,0.71,0.01,0.02,0.06,0.28
+Distinguished_TCHR_Standard 4_Pct,0.27,0.45,0.33,0.33,0.6,0.02,0.06,0.15,0.28
+lea_flicensed_teach_pct,0.27,0.43,0.33,0.31,0.07,0.07,0.42,0.3,0.27
+EOGMathGr5_CACR_White,0.27,0.48,0.33,0.33,0.32,0.0,0.15,0.28,0.27
+EOGSubjects_CACR_LEP,0.27,0.36,0.33,0.31,0.77,0.0,0.03,0.09,0.27
+EOGMathGr3-8_CACR_SWD,0.27,0.39,0.33,0.31,0.49,0.01,0.12,0.24,0.27
+EOGMathGr4_CACR_AIG,0.27,0.47,0.35,0.34,0.5,0.0,0.06,0.14,0.27
+EOGReadingGr3_CACR_Black,0.27,0.53,0.35,0.38,0.54,0.01,0.0,0.1,0.27
+SPG Grade_B,0.27,0.35,0.3,0.28,0.56,0.0,0.12,0.31,0.27
+Self-employed (Keogh) retirement plans Amt LT25K,0.27,0.34,0.33,0.31,0.83,0.0,0.0,0.05,0.27
+EOGMathGr3-8_CACR_TwoorMoreRaces,0.27,0.48,0.37,0.37,0.46,0.01,0.02,0.15,0.27
+Residential energy tax credit Amt LT25K,0.27,0.48,0.33,0.31,0.76,0.0,0.0,0.03,0.27
+st_tchyrs_11plus_pct,0.05,0.43,0.33,0.31,0.94,0.0,0.01,0.12,0.27
+Math SPG Grade_D,0.27,0.47,0.36,0.36,0.51,0.0,0.07,0.12,0.27
+lea_salary_expense_pct,0.19,0.34,0.18,0.12,1.0,0.03,0.17,0.16,0.27
+lea_sat_avg_score_num,0.27,0.32,0.25,0.1,0.63,0.12,0.16,0.3,0.27
+Other non-limited misc deduction Ct LT25K,0.27,0.34,0.33,0.31,0.85,0.0,0.0,0.07,0.27
+Domestic production activities deduction Ct 25KLT50K,0.27,0.45,0.34,0.31,0.69,0.0,0.01,0.06,0.27
+student_num,0.27,0.37,0.33,0.29,0.46,0.08,0.0,0.35,0.27
+Alternative minimum tax Amt 50KLT75K,0.27,0.47,0.33,0.31,0.71,0.0,0.0,0.04,0.27
+EOGGr4_CACR_AIG,0.27,0.48,0.35,0.35,0.43,0.0,0.09,0.16,0.27
+st_nbpts_num,0.0,0.44,0.33,0.31,0.95,0.0,0.0,0.07,0.26
+Crime_Rate_Arson_Rate,0.27,0.52,0.28,0.31,0.63,0.02,0.0,0.02,0.26
+EOG/EOCSubjects_CACR_Asian,0.27,0.53,0.36,0.36,0.45,0.01,0.01,0.12,0.26
+Other non-limited misc deduction Amt 75KLT100K,0.27,0.3,0.27,0.28,0.79,0.01,0.01,0.11,0.26
+EOCSubjects_CACR_LEP,0.27,0.37,0.33,0.31,0.77,0.0,0.0,0.07,0.26
+EOGScienceGr5&8_CACR_White,0.27,0.32,0.3,0.27,0.62,0.01,0.11,0.22,0.26
+EOGSubjects_CACR_Hispanic,0.27,0.48,0.35,0.39,0.42,0.01,0.05,0.15,0.26
+EOGMathGr5_CACR_Black,0.27,0.5,0.33,0.34,0.52,0.01,0.0,0.1,0.26
+Pct of Farm Returns,0.27,0.41,0.33,0.37,0.64,0.02,0.01,0.06,0.26
+Domestic production activities deduction Ct 50KLT75K,0.27,0.29,0.33,0.31,0.72,0.0,0.03,0.12,0.26
+EOGScienceGr5_CACR_EDS,0.27,0.34,0.27,0.25,0.66,0.01,0.08,0.2,0.26
+EOG/EOCSubjects_CACR_SWD,0.27,0.32,0.33,0.31,0.48,0.01,0.12,0.25,0.26
+Add child tax credit Amt 75KLT100K,0.27,0.31,0.33,0.31,0.73,0.0,0.02,0.07,0.26
+Residential energy tax credit Ct LT25K,0.27,0.39,0.33,0.3,0.76,0.0,0.0,0.03,0.26
+EOGGr4_CACR_SWD,0.27,0.47,0.33,0.37,0.39,0.01,0.08,0.15,0.26
+Investment interest paid Ct LT25K,0.27,0.4,0.33,0.32,0.75,0.0,0.0,0.05,0.26
+SBE District_Western,0.27,0.44,0.33,0.33,0.64,0.0,0.01,0.03,0.26
+EOGScienceGr5&8_CACR_Black,0.27,0.5,0.33,0.34,0.42,0.01,0.01,0.18,0.26
+advance_dgr_pct,0.27,0.45,0.37,0.39,0.21,0.04,0.14,0.19,0.26
+EOGGr3_CACR_All,0.27,0.44,0.33,0.31,0.24,0.01,0.15,0.29,0.26
+EOGGr3_CACR_EDS,0.27,0.41,0.27,0.26,0.49,0.01,0.13,0.23,0.26
+Add child tax credit Amt 25KLT50K,0.27,0.2,0.33,0.31,0.86,0.01,0.01,0.1,0.26
+Distinguished_TCHR_Standard 1_Pct,0.27,0.33,0.33,0.31,0.61,0.02,0.08,0.11,0.26
+0-3 Years_LEA_Exp_Pct_Prin,0.27,0.39,0.29,0.24,0.74,0.05,0.05,0.09,0.26
+EOGReadingGr4_CACR_SWD,0.27,0.49,0.33,0.31,0.54,0.0,0.05,0.11,0.26
+Reading SPG Grade_B,0.27,0.44,0.33,0.31,0.27,0.0,0.1,0.26,0.25
+Alternative minimum tax Amt 25KLT50K,0.27,0.38,0.3,0.26,0.71,0.0,0.0,0.06,0.25
+(VITA) prepared returns Ct 25KLT50K,0.27,0.19,0.33,0.31,0.8,0.01,0.01,0.09,0.25
+EOGReadingGr4_CACR_AmericanIndian,0.27,0.5,0.33,0.31,0.55,0.0,0.0,0.01,0.25
+Alternative minimum tax Ct 50KLT75K,0.27,0.34,0.31,0.28,0.72,0.0,0.0,0.04,0.25
+Tot Add Medicare tax Amt 25KLT50K,0.27,0.35,0.33,0.31,0.7,0.0,0.0,0.02,0.25
+avg_age_media_collection,0.27,0.47,0.33,0.31,0.56,0.03,0.0,0.04,0.25
+Domestic production activities deduction Amt 25KLT50K,0.27,0.32,0.32,0.31,0.73,0.0,0.0,0.06,0.25
+Earned income credit Amt 50KLT75K,0.27,0.24,0.33,0.28,0.8,0.0,0.0,0.08,0.25
+Math SPG Grade_C,0.27,0.46,0.34,0.35,0.52,0.0,0.02,0.06,0.25
+EOGGr4_GLP_LEP,0.27,0.49,0.33,0.31,0.59,0.01,0.0,0.03,0.25
+SBE District_Piedmont-Triad,0.27,0.41,0.31,0.31,0.64,0.0,0.01,0.02,0.25
+lea_short_susp_per_c_num,0.27,0.35,0.33,0.26,0.44,0.04,0.08,0.23,0.25
+EOGMathGr3_CACR_LEP,0.27,0.51,0.33,0.31,0.53,0.0,0.01,0.04,0.25
+lea_ap_participation_pct,0.27,0.54,0.39,0.4,0.28,0.01,0.02,0.1,0.25
+lea_advance_dgr_pct,0.27,0.44,0.33,0.31,0.32,0.02,0.1,0.17,0.25
+Number of farm returns 75KLT100K,0.3,0.17,0.24,0.19,0.92,0.01,0.04,0.13,0.25
+EOGReadingGr5_CACR_EDS,0.27,0.49,0.33,0.31,0.31,0.01,0.08,0.19,0.25
+SBE District_Northeast,0.27,0.45,0.28,0.29,0.65,0.0,0.03,0.06,0.25
+Other non-limited misc deduction Amt 50KLT75K,0.27,0.33,0.33,0.31,0.69,0.0,0.02,0.06,0.25
+EOCMathI_CACR_Male,0.27,0.48,0.34,0.34,0.51,0.0,0.0,0.09,0.25
+EOGMathGr3-8_CACR_AIG,0.27,0.39,0.31,0.29,0.39,0.01,0.07,0.26,0.25
+EOCMathI_CACR_AIG,0.27,0.48,0.37,0.35,0.46,0.0,0.0,0.06,0.25
+SciGr5&8_pTarget_PctMet,0.27,0.33,0.32,0.29,0.58,0.0,0.01,0.09,0.24
+EOGScienceGr5&8_CACR_Hispanic,0.27,0.35,0.33,0.28,0.57,0.01,0.0,0.15,0.24
+Not Demostrated_TCHR_Standard 1_Pct,0.27,0.48,0.43,0.6,0.16,0.0,0.0,0.02,0.24
+Grad_project_status_Y,0.27,0.46,0.36,0.35,0.38,0.0,0.02,0.04,0.24
+EOGReadingGr5_CACR_SWD,0.27,0.5,0.34,0.37,0.4,0.0,0.02,0.05,0.24
+Math I_Size,0.27,0.46,0.33,0.34,0.37,0.01,0.02,0.11,0.24
+Reading SPG Grade_D,0.27,0.44,0.33,0.32,0.27,0.0,0.11,0.19,0.24
+long_susp_per_c_num,0.27,0.41,0.33,0.56,0.29,0.01,0.03,0.06,0.24
+EOGGr4_CACR_White,0.27,0.21,0.23,0.15,0.68,0.01,0.13,0.26,0.24
+lea_nbpts_num,0.27,0.38,0.26,0.23,0.44,0.02,0.1,0.24,0.24
+digital_media_pct,0.27,0.47,0.35,0.39,0.41,0.02,0.0,0.04,0.24
+lea_tchyrs_11plus_pct,0.27,0.4,0.33,0.31,0.29,0.02,0.19,0.15,0.24
+lea_wap_per_classroom,0.27,0.36,0.33,0.26,0.64,0.02,0.01,0.03,0.24
+EOG/EOCSubjects_GLP_LEP,0.27,0.41,0.33,0.31,0.43,0.01,0.03,0.12,0.24
+EOGMathGr3_CACR_EDS,0.27,0.41,0.33,0.31,0.27,0.01,0.11,0.18,0.24
+EOGReadingGr3-8_CACR_SWD,0.27,0.35,0.33,0.31,0.4,0.01,0.08,0.13,0.24
+EOCSubjects_GLP_LEP,0.27,0.47,0.33,0.31,0.44,0.0,0.0,0.13,0.24
+EOCSubjects_CACR_TwoorMoreRaces,0.27,0.46,0.36,0.36,0.3,0.0,0.0,0.16,0.24
+EOCSubjects_CACR_SWD,0.27,0.47,0.33,0.31,0.47,0.0,0.0,0.08,0.24
+lea_ib_pct_4_or_above,0.27,0.55,0.34,0.34,0.36,0.0,0.0,0.05,0.24
+EOGMathGr3-8_CACR_White,0.27,0.46,0.33,0.31,0.19,0.01,0.12,0.26,0.24
+Crime_Rate_Violent_Rate,0.27,0.18,0.31,0.2,0.81,0.01,0.04,0.11,0.24
+Crime_Rate_Burglary_Rate,0.27,0.45,0.23,0.2,0.69,0.01,0.02,0.09,0.24
+Avg Personal Property Taxes,0.27,0.46,0.33,0.31,0.33,0.02,0.06,0.15,0.24
+Attrition_Reason_InitiatedbyLEA,0.27,0.15,0.33,0.3,0.85,0.01,0.0,0.05,0.24
+Alternative minimum tax Amt 75KLT100K,0.27,0.27,0.31,0.31,0.7,0.0,0.0,0.03,0.24
+03_Size,0.27,0.33,0.25,0.2,0.67,0.01,0.06,0.14,0.24
+EOGMathGr5_CACR_LEP,0.27,0.48,0.33,0.33,0.48,0.0,0.0,0.02,0.24
+EOGMathGr3-8_CACR_Black,0.27,0.35,0.32,0.25,0.49,0.01,0.01,0.17,0.23
+Math SPG Grade_B,0.27,0.41,0.31,0.31,0.21,0.0,0.12,0.23,0.23
+EOGGr5_CACR_SWD,0.27,0.36,0.29,0.22,0.45,0.01,0.08,0.16,0.23
+lea_crime_per_c_num,0.27,0.37,0.33,0.15,0.55,0.02,0.02,0.13,0.23
+avg_daily_attend_pct,0.27,0.45,0.33,0.31,0.14,0.04,0.12,0.19,0.23
+EOGGr4_CACR_LEP,0.27,0.35,0.33,0.31,0.59,0.0,0.0,0.02,0.23
+Net investment income tax Amt 100KLT200K,0.27,0.1,0.33,0.29,0.82,0.0,0.0,0.04,0.23
+EOGGr4_CACR_Black,0.27,0.46,0.33,0.31,0.34,0.01,0.01,0.1,0.23
+Number of volunteer prepared returns Tot 50KLT75K,0.27,0.55,0.33,0.31,0.32,0.0,0.0,0.05,0.23
+EOCSubjects_CACR_Hispanic,0.27,0.3,0.28,0.2,0.66,0.0,0.0,0.11,0.23
+EOCSubjects_CACR_AIG,0.27,0.38,0.33,0.31,0.46,0.0,0.0,0.06,0.23
+Domestic production activities deduction Amt LT25K,0.27,0.4,0.33,0.31,0.47,0.0,0.01,0.04,0.23
+(TCE) prepared returns Ct 75KLT100K,0.27,0.39,0.33,0.31,0.48,0.0,0.02,0.07,0.23
+EOGMathGr3_CACR_Black,0.27,0.34,0.33,0.3,0.54,0.0,0.0,0.09,0.23
+EOGMathGr3-8_CACR_LEP,0.27,0.37,0.33,0.31,0.43,0.01,0.02,0.08,0.23
+EOGMathGr5_CACR_TwoorMoreRaces,0.27,0.46,0.34,0.36,0.36,0.01,0.0,0.01,0.23
+EOGMathGr4_CACR_AmericanIndian,0.27,0.35,0.33,0.31,0.55,0.0,0.0,0.01,0.23
+EOGMathGr4_CACR_Hispanic,0.27,0.45,0.33,0.31,0.37,0.0,0.02,0.07,0.23
+EOGReadingGr4_GLP_SWD,0.27,0.33,0.27,0.24,0.54,0.0,0.06,0.13,0.23
+EOGReadingGr3-8_CACR_TwoorMoreRaces,0.27,0.45,0.33,0.33,0.31,0.01,0.01,0.15,0.23
+EVAAS Growth Score,0.27,0.36,0.32,0.27,0.39,0.03,0.04,0.13,0.23
+EOGReadingGr3-8_GLP_LEP,0.27,0.45,0.32,0.3,0.43,0.0,0.02,0.08,0.23
+EOGMathGr5_CACR_AIG,0.27,0.46,0.33,0.31,0.14,0.0,0.09,0.21,0.23
+EOGScienceGr5&8_CACR_AIG,0.27,0.33,0.29,0.27,0.5,0.0,0.05,0.15,0.23
+EOGReadingGr3-8_CACR_Black,0.27,0.4,0.33,0.31,0.3,0.01,0.0,0.22,0.23
+EOGSubjects_CACR_Asian,0.27,0.37,0.33,0.31,0.45,0.01,0.02,0.08,0.23
+EOGReadingGr3_CACR_LEP,0.27,0.49,0.33,0.31,0.41,0.0,0.01,0.03,0.23
+EOGReadingGr3_GLP_LEP,0.27,0.29,0.3,0.29,0.53,0.0,0.01,0.03,0.22
+EOGScienceGr5&8_CACR_SWD,0.27,0.41,0.33,0.31,0.26,0.02,0.02,0.18,0.22
+"calendar_type_txt_Special Education, Traditional Calendar",0.27,0.46,0.33,0.37,0.28,0.0,0.0,0.01,0.22
+EOGReadingGr3_CACR_EDS,0.27,0.39,0.33,0.29,0.18,0.01,0.12,0.21,0.22
+EOGReadingGr4_CACR_EDS,0.27,0.43,0.33,0.31,0.12,0.01,0.09,0.23,0.22
+Partnership/S-corp net income (less loss) Amt LT25K,0.27,0.16,0.29,0.27,0.63,0.01,0.01,0.09,0.22
+Deductible points Ct LT25K,0.27,0.24,0.19,0.12,0.86,0.0,0.01,0.07,0.22
+EOGReadingGr5_GLP_SWD,0.27,0.4,0.33,0.31,0.4,0.0,0.02,0.07,0.22
+EOGReadingGr4_CACR_Hispanic,0.27,0.4,0.33,0.31,0.37,0.01,0.02,0.06,0.22
+05_Size,0.27,0.38,0.33,0.29,0.36,0.01,0.04,0.12,0.22
+EOGReadingGr5_GLP_AmericanIndian,0.27,0.49,0.33,0.31,0.35,0.0,0.0,0.01,0.22
+Reading SPG Grade_C,0.27,0.46,0.33,0.32,0.28,0.0,0.04,0.09,0.22
+EOG/EOCSubjects_CACR_AmericanIndian,0.27,0.45,0.33,0.32,0.36,0.0,0.0,0.04,0.22
+lea_books_per_student,0.27,0.28,0.33,0.17,0.61,0.02,0.01,0.03,0.22
+EOGScienceGr5_CACR_Black,0.27,0.31,0.33,0.26,0.52,0.0,0.0,0.1,0.22
+EOGGr5_CACR_AIG,0.27,0.4,0.31,0.29,0.23,0.0,0.08,0.22,0.22
+EOGMathGr4_CACR_Black,0.27,0.41,0.33,0.31,0.34,0.0,0.0,0.1,0.22
+EVAAS Growth Status_Met,0.27,0.45,0.34,0.33,0.38,0.0,0.0,0.01,0.22
+SPG Grade_C,0.27,0.3,0.29,0.26,0.56,0.0,0.0,0.05,0.22
+EOGMathGr3-8_CACR_AmericanIndian,0.27,0.48,0.33,0.31,0.35,0.0,0.0,0.02,0.22
+crime_per_c_num,0.27,0.41,0.33,0.31,0.1,0.04,0.0,0.27,0.22
+EOGMathGr5_CACR_EDS,0.27,0.4,0.33,0.35,0.23,0.01,0.07,0.13,0.22
+lea_tchyrs_4thru10_pct,0.27,0.41,0.33,0.31,0.29,0.04,0.07,0.08,0.22
+Math SPG Grade_F,0.27,0.4,0.31,0.3,0.22,0.0,0.08,0.14,0.22
+EOGSubjects_CACR_AIG,0.27,0.0,0.26,0.11,0.79,0.01,0.05,0.3,0.22
+EOGScienceGr5_CACR_SWD,0.27,0.45,0.33,0.31,0.26,0.0,0.03,0.08,0.22
+Not Demostrated_TCHR_Standard 4_Pct,0.27,0.41,0.33,0.31,0.45,0.0,0.0,0.02,0.22
+EOGScienceGr5_CACR_LEP,0.27,0.37,0.33,0.3,0.48,0.0,0.0,0.02,0.22
+EOGGr3_CACR_Hispanic,0.27,0.45,0.33,0.31,0.27,0.01,0.04,0.11,0.22
+stud_internet_comp_num,0.27,0.45,0.33,0.31,0.2,0.04,0.01,0.06,0.21
+TotalTargets_pTarget_PctMet,0.27,0.26,0.17,0.09,0.77,0.0,0.01,0.11,0.21
+SRC_devices_sent_home_Yes,0.27,0.38,0.29,0.27,0.41,0.0,0.01,0.03,0.21
+SBE District_Northwest,0.27,0.41,0.33,0.34,0.18,0.0,0.05,0.08,0.21
+books_per_student,0.27,0.44,0.33,0.31,0.29,0.04,0.0,0.03,0.21
+(TCE) prepared returns Ct 100KLT200K,0.27,0.34,0.33,0.3,0.42,0.0,0.0,0.01,0.21
+wap_per_classroom,0.27,0.44,0.33,0.31,0.19,0.06,0.02,0.04,0.21
+EOGGr5_CACR_Hispanic,0.27,0.38,0.31,0.27,0.33,0.01,0.05,0.08,0.21
+EOGSubjects_CACR_AmericanIndian,0.27,0.4,0.33,0.31,0.35,0.0,0.0,0.04,0.21
+EOGMathGr5_CACR_SWD,0.27,0.4,0.33,0.31,0.26,0.0,0.03,0.07,0.21
+EOGReadingGr5_CACR_AmericanIndian,0.27,0.44,0.33,0.31,0.31,0.0,0.0,0.01,0.21
+EOGReadingGr5_CACR_Black,0.27,0.41,0.33,0.31,0.23,0.01,0.0,0.1,0.21
+EOGGr3_CACR_AmericanIndian,0.27,0.38,0.33,0.31,0.34,0.0,0.0,0.02,0.21
+EOGGr3_CACR_Asian,0.27,0.38,0.31,0.28,0.34,0.0,0.02,0.09,0.21
+EOCMathI_CACR_White,0.27,0.44,0.33,0.31,0.32,0.0,0.0,0.04,0.21
+EOGScienceGr5&8_CACR_AmericanIndian,0.27,0.38,0.33,0.3,0.35,0.0,0.0,0.02,0.21
+EOGScienceGr5&8_CACR_Asian,0.27,0.46,0.33,0.31,0.24,0.0,0.01,0.03,0.21
+EOGMathGr4_CACR_SWD,0.27,0.39,0.33,0.3,0.25,0.0,0.06,0.11,0.21
+EOCMathI_CACR_TwoorMoreRaces,0.27,0.39,0.33,0.28,0.3,0.0,0.0,0.14,0.21
+EOGGr3_CACR_Black,0.27,0.45,0.33,0.31,0.21,0.01,0.01,0.09,0.21
+EOGMathGr4_CACR_Asian,0.27,0.46,0.33,0.33,0.25,0.0,0.01,0.03,0.21
+EOGReadingGr3-8_GLP_SWD,0.27,0.44,0.33,0.31,0.06,0.01,0.09,0.16,0.21
+EOGMathGr3_GLP_SWD,0.27,0.39,0.27,0.25,0.3,0.0,0.06,0.13,0.21
+EOCMathI_CACR_Female,0.27,0.22,0.19,0.16,0.78,0.0,0.0,0.07,0.21
+EOG/EOCSubjects_CACR_TwoorMoreRaces,0.27,0.42,0.33,0.31,0.15,0.02,0.04,0.13,0.21
+EOGSubjects_CACR_Black,0.27,0.37,0.33,0.31,0.2,0.01,0.01,0.17,0.21
+EOGGr4_CACR_EDS,0.27,0.43,0.33,0.31,0.02,0.01,0.1,0.24,0.21
+EOGGr4_CACR_TwoorMoreRaces,0.27,0.39,0.3,0.27,0.38,0.0,0.01,0.03,0.21
+Avg Tot Income,0.27,0.35,0.33,0.31,0.26,0.01,0.03,0.1,0.21
+Number of refund anticipation loan returns 50KLT75K,0.27,0.47,0.34,0.38,0.17,0.0,0.0,0.05,0.21
+00_Size,0.27,0.41,0.3,0.29,0.16,0.01,0.06,0.15,0.21
+EOGMathGr5_CACR_AmericanIndian,0.27,0.4,0.33,0.31,0.31,0.0,0.0,0.02,0.2
+EOGReadingGr3-8_CACR_LEP,0.27,0.44,0.33,0.31,0.2,0.01,0.02,0.04,0.2
+EOGReadingGr3-8_CACR_Hispanic,0.27,0.44,0.33,0.31,0.14,0.01,0.03,0.1,0.2
+EOGMathGr5_CACR_Asian,0.27,0.39,0.33,0.31,0.25,0.0,0.01,0.06,0.2
+Pct of Elderly Returns,0.27,0.24,0.22,0.12,0.71,0.01,0.01,0.06,0.2
+EOGMathGr3-8_CACR_Hispanic,0.27,0.41,0.33,0.31,0.13,0.01,0.05,0.13,0.2
+lea_avg_student_num,0.27,0.41,0.33,0.31,0.19,0.02,0.0,0.07,0.2
+EOGMathGr3_CACR_AmericanIndian,0.27,0.44,0.33,0.31,0.23,0.0,0.0,0.02,0.2
+EOGGr4_CACR_Hispanic,0.27,0.43,0.33,0.31,0.12,0.0,0.04,0.08,0.2
+EOGGr4_CACR_Asian,0.27,0.45,0.33,0.31,0.18,0.0,0.02,0.05,0.2
+EOGMathGr3_CACR_Hispanic,0.27,0.4,0.33,0.3,0.21,0.0,0.01,0.07,0.2
+EOGMathGr3_CACR_AIG,0.27,0.42,0.33,0.31,0.15,0.0,0.04,0.12,0.2
+Reading SPG Grade_F,0.27,0.41,0.33,0.31,0.12,0.0,0.06,0.13,0.2
+EOG/EOCSubjects_CACR_Hispanic,0.27,0.43,0.33,0.31,0.08,0.02,0.09,0.11,0.2
+EOCMathI_CACR_SWD,0.27,0.45,0.33,0.31,0.15,0.0,0.0,0.11,0.2
+wap_num,0.27,0.42,0.33,0.31,0.02,0.04,0.01,0.19,0.2
+Meets Expected Growth_TCHR_Student Growth_Pct,0.27,0.44,0.33,0.31,0.14,0.04,0.02,0.07,0.2
+Investment interest paid Amt LT25K,0.27,0.27,0.12,0.09,0.81,0.0,0.01,0.05,0.2
+Exceeds Expected Growth_TCHR_Student Growth_Pct,0.27,0.43,0.3,0.29,0.05,0.04,0.07,0.13,0.2
+Byod_Yes,0.27,0.44,0.33,0.32,0.17,0.0,0.01,0.03,0.2
+EVAAS Growth Status_NotMet,0.27,0.39,0.33,0.3,0.22,0.0,0.02,0.06,0.2
+EOGSubjects_CACR_TwoorMoreRaces,0.27,0.42,0.33,0.31,0.04,0.01,0.04,0.15,0.2
+SPG Grade_F,0.27,0.44,0.33,0.35,0.04,0.01,0.07,0.13,0.2
+pct_GCE_ALL,0.27,0.37,0.22,0.17,0.41,0.01,0.02,0.11,0.2
+EOCMathI_CACR_Black,0.27,0.43,0.33,0.31,0.07,0.0,0.02,0.17,0.2
+State Gap Compared_Y,0.27,0.41,0.33,0.31,0.2,0.0,0.02,0.06,0.2
+_1_to_1_access_Yes,0.27,0.45,0.33,0.32,0.17,0.0,0.01,0.03,0.2
+EOCMathI_GLP_LEP,0.27,0.4,0.33,0.31,0.22,0.0,0.0,0.1,0.2
+EOGReadingGr5_CACR_Hispanic,0.27,0.4,0.33,0.31,0.18,0.01,0.01,0.06,0.2
+EOGGr5_CACR_LEP,0.27,0.4,0.33,0.29,0.24,0.0,0.01,0.04,0.2
+calendar_type_txt_Hospital School,0.27,0.45,0.33,0.31,0.22,0.0,0.0,0.01,0.2
+EOCSubjects_CACR_Asian,0.27,0.41,0.33,0.31,0.24,0.0,0.0,0.08,0.2
+EOCMathI_CACR_LEP,0.27,0.44,0.33,0.31,0.11,0.0,0.0,0.08,0.19
+EOGGr3_CACR_LEP,0.27,0.41,0.33,0.31,0.1,0.0,0.02,0.07,0.19
+Crime_Rate_Index_Rate,0.27,0.09,0.18,0.13,0.74,0.01,0.01,0.06,0.19
+EOGGr3_CACR_AIG,0.27,0.43,0.33,0.32,0.01,0.0,0.05,0.1,0.19
+02_Size,0.27,0.41,0.29,0.29,0.08,0.01,0.06,0.14,0.19
+EOCSubjects_CACR_Black,0.27,0.41,0.33,0.31,0.03,0.0,0.01,0.14,0.19
+EOCSubjects_CACR_AmericanIndian,0.27,0.44,0.33,0.31,0.11,0.0,0.0,0.04,0.19
+EOGMathGr3_CACR_SWD,0.27,0.42,0.33,0.31,0.04,0.0,0.05,0.13,0.19
+EOGGr5_CACR_TwoorMoreRaces,0.27,0.41,0.33,0.31,0.16,0.0,0.02,0.06,0.19
+EOGMathGr4_CACR_LEP,0.27,0.44,0.33,0.31,0.16,0.0,0.0,0.04,0.19
+NC Math 1 Score,0.27,0.42,0.33,0.31,0.09,0.0,0.0,0.09,0.19
+SPG Grade_A+NG,0.27,0.43,0.33,0.31,0.11,0.0,0.01,0.04,0.19
+SPG Grade_I,0.27,0.3,0.19,0.16,0.6,0.0,0.0,0.01,0.19
+EOGScienceGr5_GLP_LEP,0.27,0.44,0.33,0.31,0.13,0.0,0.0,0.02,0.19
+EOGScienceGr5&8_CACR_TwoorMoreRaces,0.27,0.42,0.33,0.31,0.09,0.0,0.0,0.07,0.19
+EOGScienceGr5&8_CACR_LEP,0.27,0.43,0.33,0.31,0.09,0.0,0.0,0.06,0.19
+EOGReadingGr4_CACR_Black,0.27,0.41,0.33,0.3,0.12,0.01,0.0,0.09,0.19
+EOGReadingGr3_CACR_SWD,0.27,0.43,0.33,0.3,0.07,0.0,0.05,0.1,0.19
+expelled_per_c_num,0.27,0.41,0.33,0.31,0.19,0.0,0.0,0.01,0.19
+EOGReadingGr4_GLP_LEP,0.27,0.41,0.33,0.31,0.15,0.0,0.0,0.02,0.19
+EOGMathGr3_CACR_Asian,0.27,0.41,0.33,0.31,0.13,0.0,0.01,0.05,0.19
+EOGMathGr3-8_CACR_Asian,0.27,0.42,0.33,0.31,0.13,0.0,0.02,0.06,0.19
+EOGMathGr3_CACR_TwoorMoreRaces,0.27,0.43,0.33,0.31,0.08,0.0,0.0,0.02,0.18
+EOGGr5_CACR_Asian,0.27,0.43,0.33,0.31,0.01,0.0,0.02,0.06,0.18
+Home mortgage interest paid from personal seller Amt LT25K,0.27,0.22,0.33,0.16,0.4,0.0,0.01,0.09,0.18
+EOGGr5_CACR_AmericanIndian,0.27,0.43,0.33,0.31,0.04,0.0,0.0,0.02,0.18
+EOCMathI_CACR_AmericanIndian,0.27,0.41,0.33,0.31,0.11,0.0,0.0,0.02,0.18
+EOCMathI_CACR_Asian,0.27,0.42,0.33,0.31,0.06,0.0,0.0,0.07,0.18
+lea_expelled_per_c_num,0.27,0.37,0.16,0.11,0.47,0.0,0.01,0.03,0.18
+EOCMathI_CACR_EDS,0.27,0.43,0.31,0.31,0.01,0.01,0.0,0.1,0.18
+EOGMathGr4_CACR_TwoorMoreRaces,0.27,0.43,0.33,0.31,0.07,0.0,0.0,0.01,0.18
+lea_emer_prov_teach_pct,0.27,0.41,0.33,0.31,0.05,0.02,0.0,0.03,0.18
+EOGScienceGr5&8_GLP_LEP,0.27,0.41,0.33,0.31,0.1,0.0,0.0,0.06,0.18
+EOGReadingGr5_GLP_LEP,0.27,0.42,0.33,0.31,0.09,0.0,0.0,0.01,0.18
+EOCMathI_GLP_SWD,0.27,0.41,0.33,0.31,0.0,0.0,0.0,0.13,0.18
+EOGGr5_CACR_Black,0.27,0.43,0.33,0.31,0.03,0.0,0.01,0.1,0.18
+EOGGr3_CACR_TwoorMoreRaces,0.27,0.42,0.33,0.31,0.05,0.0,0.01,0.03,0.18
+EOGReadingGr3_CACR_Hispanic,0.27,0.42,0.33,0.31,0.06,0.0,0.02,0.07,0.18
+EOGReadingGr3-8_CACR_AmericanIndian,0.27,0.41,0.33,0.31,0.1,0.0,0.0,0.01,0.18
+EOGReadingGr5_CACR_LEP,0.27,0.43,0.33,0.31,0.0,0.0,0.0,0.02,0.17
+EOGScienceGr5_CACR_AmericanIndian,0.27,0.4,0.33,0.31,0.06,0.0,0.0,0.01,0.17
+EOGGr4_CACR_AmericanIndian,0.27,0.42,0.33,0.31,0.02,0.0,0.0,0.02,0.17
+EOGReadingGr3_CACR_AmericanIndian,0.27,0.43,0.33,0.31,0.03,0.0,0.0,0.01,0.17
+"calendar_type_txt_Vocational Education, Traditional Calendar",0.27,0.42,0.33,0.31,0.03,0.0,0.0,0.02,0.17
+Not Demostrated_TCHR_Standard 2_Pct,0.27,0.42,0.33,0.31,0.02,0.0,0.0,0.03,0.17
+EOGReadingGr4_CACR_LEP,0.27,0.42,0.33,0.31,0.01,0.0,0.0,0.01,0.17
+Avg Dependents Per Ret,0.27,0.08,0.17,0.0,0.52,0.02,0.04,0.07,0.15
+Pct of Anticipation Loans,0.27,0.35,0.0,0.0,0.38,0.03,0.01,0.04,0.14
+Domestic production activities deduction Amt 75KLT100K,0.27,0.17,0.13,0.09,0.05,0.01,0.01,0.08,0.1
+Year,0.32,0.43,0.33,0.31,0.93,0.0,,0.0,
